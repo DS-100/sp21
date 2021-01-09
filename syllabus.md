@@ -44,7 +44,7 @@ While we are working to make this class widely accessible, we currently require 
 
 <a name = 'format'></a>
 
-## Online Format
+<!-- ## Online Format
 
 This fall, Data 100 will be run entirely online. This section details exactly how each component of the course will operate. But here's a nice high-level "typical week in the course":
 
@@ -189,7 +189,7 @@ We also ask that you **do not post your assignment solutions publicly**.
 
 Cheating on exams is a serious offense. We have methods of detecting cheating on exams – so don't do it! Students caught cheating on any exam will fail this course.  We will be following the [EECS departmental policy on Academic Honesty](https://eecs.berkeley.edu/resources/students/academic-dishonesty), so be sure you are familiar with it.
 
-<br>
+<br> -->
 
 ### We want you to succeed!
 If you are feeling overwhelmed, visit our office hours and talk with us. We know college can be stressful – and especially so during the COVID-19 pandemic – and we want to help you succeed.

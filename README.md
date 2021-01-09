@@ -1,6 +1,6 @@
-## Data 100 Fall 2020 website
+## Data 100 Spring 2021 website
 
-This [video](https://www.youtube.com/watch?v=azPPK5aOcV0) walks you through how to make changes to the website (just replace all instances of `fa19` with `fa20`).
+This [video](https://www.youtube.com/watch?v=azPPK5aOcV0) walks you through how to make changes to the website (just replace all instances of `fa19` with `sp21`).
 
 The following text is taken from the standard GitHub Pages README.
 

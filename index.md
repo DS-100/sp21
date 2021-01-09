@@ -21,15 +21,15 @@ UC Berkeley, Fall 2020
 </div>
 
 <ul>
-<li><b>All announcements are on <a href="http://piazza.com/berkeley/fall2020/data100">Piazza</a>. Make sure you are enrolled and active there.</b></li>
-<li>Please read our <a href="http://www.ds100.org/fa20faq">course FAQ</a> before contacting staff with questions that might be answered there.</li>
-<li>The <a href="{{ site.baseurl }}/syllabus">Syllabus</a> contains a detailed explanation of how each course component will work this fall, given that the course is being taught entirely online.</li>
+<li><b>THIS PAGE IS UNDER CONSTRUCTION. Information here is subject to change </b></li>
+<!-- <li>Please read our <a href="http://www.ds100.org/sp21faq">course FAQ</a> before contacting staff with questions that might be answered there.</li> -->
+<!-- <li>The <a href="{{ site.baseurl }}/syllabus">Syllabus</a> contains a detailed explanation of how each course component will work this fall, given that the course is being taught entirely online.</li>
 <li>The scheduling of all weekly events is in the <a href="{{ site.baseurl }}/calendar">Calendar</a>.</li>
-<li>The Zoom links for all live events are in <a href="https://piazza.com/class/ke37haavnl86ul?cid=15">@15 on Piazza</a>.</li>
+<li>The Zoom links for all live events are in <a href="https://piazza.com/class/ke37haavnl86ul?cid=15">@15 on Piazza</a>.</li> -->
 </ul>
 
 <br><br>
 
-{% for module in site.modules %}
+<!-- {% for module in site.modules %}
 {{ module }}
-{% endfor %}
+{% endfor %} -->
