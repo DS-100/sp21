@@ -11,7 +11,7 @@ description: Calendars with times for all course events.
 - [Office Hours Calendar](#ohc)
 
 
-<a name='ldlc'></a>
+<!-- <a name='ldlc'></a>
 
 ## Discussion, Lab, and Special Events Calendar
 
@@ -37,3 +37,4 @@ Prof. Joseph and Prof. Perez' office hours are in <span style="color:#b2505b">**
 Lost office hours are also in <span style="color:#b2505b">**dark pink**</span>. You should come to these if you feel behind in the course and would like help with the material (but not with assignments).
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=Y18wNnRqYnJuNHY0aHNzcTQ1dmhtb2tlZ2VuMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y181Z2pyMzQ2Zmp0dm8xbjdjcHZzN2Nxc2kyc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23616161&amp;color=%23D81B60&amp;showTitle=0&amp;mode=WEEK" style="border-width:0" width="800" height="700" frameborder="0" scrolling="no"></iframe>
+ -->
