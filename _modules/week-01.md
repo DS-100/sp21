@@ -2,15 +2,25 @@
 title: Week 1
 weekNumber: 1
 days:
-  - date: 2020-08-26
-    events:
-      "N/A":
-  - date: 2020-08-27
-    events:
-      "**Lecture 1**{: .label .label-lecture } [Introduction, Course Overview](lecture/lec01) (QC due Aug. 31)":
-        "[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)"
-  - date: 2020-08-28
-    events:
-      "**Homework 1**{: .label .label-hw } [Prerequisites](resources/assets/hw/hw1.pdf) (due Sept. 3)":
+- date: 2021-01-19
+  events:
+    ? '**Fireside Chat 1**{: .label .label-live }'
+    : ''
+    ? '**Lecture 1**{: .label .label-lecture } Introduction, Course Overview'
+    : '[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)'
+- date: 2021-01-20
+  events:
+    ? 'N/A'
+    : ''
+- date: 2021-01-21
+  events:
+    ? '**Lecture 2**{: .label .label-lecture } [Data Sampling and Probability'
+    : '[Ch. 2](https://www.textbook.ds100.org/ch/02/design_intro.html)'
+- date: 2021-01-22
+  events:
+    ? '**Lab 1**{: .label .label-lab } Prerequisite Coding (due Jan 28)'
+    : ""
+    ? '**Homework 1**{: .label .label-hw } Prerequisites (due Jan 28)'
+    : ''
 
 ---

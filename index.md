@@ -10,7 +10,7 @@ description: A week-to-week description of the content covered in the course.
 UC Berkeley, Spring 2021
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
-<!-- <div>
+<div>
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 <div class="role">
@@ -18,7 +18,7 @@ UC Berkeley, Spring 2021
   {{ staffer }}
   {% endfor %}
 
-</div> -->
+</div>
 
 <ul>
 <li><b>THIS PAGE IS UNDER CONSTRUCTION. Information here is subject to change </b></li>
@@ -30,6 +30,6 @@ UC Berkeley, Spring 2021
 
 <br><br>
 
-<!-- {% for module in site.modules %}
+{% for module in site.modules %}
 {{ module }}
-{% endfor %} -->
+{% endfor %}
