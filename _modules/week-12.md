@@ -4,7 +4,7 @@ weekNumber: 12
 days:
 - date: 2021-04-05
   events:
-    ? '**Discussion 5**{: .label .label-disc }'
+    ? '**Discussion 4**{: .label .label-disc }'
     : ''
 - date: 2021-04-06
   events:

@@ -4,7 +4,7 @@ weekNumber: 5
 days:
 - date: 2021-02-15
   events:
-    ? '**Discussion 2**{: .label .label-disc }'
+    ? "N/A (President's Day)"
     : ''
 - date: 2021-02-16
   events:
