@@ -10,19 +10,18 @@ description: Calendars with times for all course events.
 - [Discussion, Lab, and Special Events Calendar](#ldlc)
 - [Office Hours Calendar](#ohc)
 
-
-<!-- <a name='ldlc'></a>
+<a name='ldlc'></a>
 
 ## Discussion, Lab, and Special Events Calendar
 
 This calendar contains times for
-- live discussion sessions (in <span style="color:Red">**red**</span>)
-- live lab sessions (in <span style="color:SkyBlue">**blue**</span>)
+- live discussion sessions (in <span style="color:SkyBlue">**blue**</span>)
+- live crit sessions (in <span style="color:red">**red**</span>)
 - other special events, such as lost office hours (in <span style="color:Gold">**yellow**</span>)
 
 To access these events, use the Zoom links posted in <b><a href="https://piazza.com/class/ke37haavnl86ul?cid=15">@15 on Piazza</a></b>.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=Y18zbTBkdHBpZW8zcTEzOWplbGd1ZDFza2xtZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y190cG9qM25qN25lbjd1cW5lcnFiNWhvbDFiY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y180MjFnb2dhbmsybGVmbDcwZGpvcm9pdWtza0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23D50000&amp;color=%234285F4&amp;color=%23F6BF26&amp;showTitle=0&amp;mode=WEEK" style="border-width:0" width="800" height="700" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=Y19zZ2hiOG9naDdxaGl0Z3BuamlpMG43NW0xb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y192aGVmZG1sMXJhcm11bHA4YW8yZmlvbXFrOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y181NXBhcjdzcXI4Z3ZkaHNtYmNjcnM4bm11Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23D50000&amp;color=%233F51B5&amp;color=%23E4C441&amp;showTitle=0&amp;showCalendars=1&amp;mode=WEEK" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <br>
 
@@ -36,5 +35,4 @@ Prof. Joseph and Prof. Perez' office hours are in <span style="color:#b2505b">**
 
 Lost office hours are also in <span style="color:#b2505b">**dark pink**</span>. You should come to these if you feel behind in the course and would like help with the material (but not with assignments).
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=Y18wNnRqYnJuNHY0aHNzcTQ1dmhtb2tlZ2VuMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y181Z2pyMzQ2Zmp0dm8xbjdjcHZzN2Nxc2kyc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23616161&amp;color=%23D81B60&amp;showTitle=0&amp;mode=WEEK" style="border-width:0" width="800" height="700" frameborder="0" scrolling="no"></iframe>
- -->
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;showTitle=0&amp;showCalendars=1&amp;mode=WEEK&amp;src=Y19oZGRxMzVuajZxZmozZjE4bTJ1MGQzaXBjOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y184bmwxb2JzcGE5NGUxZGJ1Z2RoamFhcjQxZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23AD1457&amp;color=%23616161" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
