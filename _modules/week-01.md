@@ -14,7 +14,7 @@ days:
     : ''
 - date: 2021-01-21
   events:
-    ? '**Lecture 2**{: .label .label-lecture } [Data Sampling and Probability'
+    ? '**Lecture 2**{: .label .label-lecture } Data Sampling and Probability'
     : '[Ch. 2](https://www.textbook.ds100.org/ch/02/design_intro.html)'
 - date: 2021-01-22
   events:
