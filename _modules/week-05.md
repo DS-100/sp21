@@ -24,7 +24,7 @@ days:
   events:
     ? '**Lab 5**{: .label .label-lab } Transformations and KDEs (due Feb 25)'
     : ''
-    ? '**Homework 3**{: .label .label-hw } Bike Sharing (due Feb 25)'
+    ? '**Homework 5**{: .label .label-hw } Bike Sharing (due Feb 25)'
     : ''
 
 ---

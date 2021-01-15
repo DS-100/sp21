@@ -18,13 +18,13 @@ days:
     : ''
 - date: 2021-04-15
   events:
-    ? '**Lecture 22**{: .label .label-lecture } Principal Components Analysis'
+    ? '**Lecture 22**{: .label .label-lecture } Clustering'
     : ''
 - date: 2021-04-16
   events:
-    ? '**Lab 11**{: .label .label-lab } Decision Trees and Random Forests (due Apr 22)'
+    ? '**Lab 12**{: .label .label-lab } TBD (due Apr 22)'
     : ''
-    ? '**Homework 8**{: .label .label-hw } Spam/Ham I (due Apr 22)'
+    ? '**Homework 10**{: .label .label-hw } Spam/Ham II (due Apr 22)'
     : ''
 
 ---

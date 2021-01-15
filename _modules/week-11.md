@@ -22,7 +22,9 @@ days:
     : '[Ch. 17.1-17.3](https://www.textbook.ds100.org/ch/17/classification_prob.html)'
 - date: 2021-04-02
   events:
-    ? '**Lab 9**{: .label .label-lab } Feature Engineering & Cross-Validation (due Apr 8)'
+    ? '**Lab 10**{: .label .label-lab } Logistic Regression (due Apr 8)'
+    : ''
+    ? '**Homework 8**{: .label .label-hw } Gradient Descent and Logistic Regression (due Apr 8)'
     : ''
 
 ---

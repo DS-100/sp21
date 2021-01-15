@@ -2,6 +2,10 @@
 title: Week 1
 weekNumber: 1
 days:
+- date: 2021-01-18
+  events:
+    ? '**Lab 0**{: .label .label-lab } Gather (due Jan 21)'
+    : ''
 - date: 2021-01-19
   events:
     ? '**Fireside Chat 1**{: .label .label-live }'

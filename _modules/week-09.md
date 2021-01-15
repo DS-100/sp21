@@ -22,9 +22,9 @@ days:
     : '[Ch. 16](https://www.textbook.ds100.org/ch/16/reg_intro.html), [Ch. 15.3](https://www.textbook.ds100.org/ch/15/bias_cv.html)'
 - date: 2021-03-19
   events:
-    ? '**Lab 8**{: .label .label-lab } Multiple Linear Regression and Feature Engineering (due mar 25)'
+    ? '**Lab 9**{: .label .label-lab } Feature Engineering and Cross-Validation (due Mar 25)'
     : ''
-    ? '**Homework 6**{: .label .label-hw } Housing (due Mar 25)'
+    ? '**Homework 7**{: .label .label-hw } Housing (due Mar 25)'
     : ''
 
 ---

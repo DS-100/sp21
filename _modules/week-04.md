@@ -24,5 +24,7 @@ days:
   events:
     ? '**Lab 4**{: .label .label-lab } Data Cleaning and EDA (due Feb 18)'
     : ''
+    ? '**Homework 4**{: .label .label-hw } Trump Tweets (due Feb 18)'
+    : ''
 
 ---

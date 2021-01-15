@@ -24,7 +24,5 @@ days:
   events:
     ? '**Lab 7**{: .label .label-lab } Simple Linear Regression (due Mar 11)'
     : ''
-    ? '**Homework 5**{: .label .label-hw } Regression (due Mar 11)'
-    : ''
 
 ---

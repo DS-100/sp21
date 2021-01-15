@@ -22,9 +22,9 @@ days:
     : ''
 - date: 2021-04-09
   events:
-    ? '**Lab 10**{: .label .label-lab } Logistic Regression (due Apr 8)'
+    ? '**Lab 11**{: .label .label-lab } Decision Trees and Random Forests (due Apr 15)'
     : ''
-    ? '**Homework 7**{: .label .label-hw } Gradient Descent and Logistic Regression (due Apr 15)'
+    ? '**Homework 9**{: .label .label-hw } Spam/Ham I (due Apr 15)'
     : ''
 
 ---
