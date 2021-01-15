@@ -44,15 +44,18 @@ While we are working to make this class widely accessible, we currently require 
 
 <a name = 'format'></a>
 
-<!-- ## Online Format
+## Online Format
 
-This fall, Data 100 will be run entirely online. This section details exactly how each component of the course will operate. But here's a nice high-level "typical week in the course":
+This spring, Data 100 will be run entirely online. This section details exactly how each component of the course will operate. But here's a nice high-level "typical week in the course":
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- | --- |
 | Office Hours | Office Hours | Office Hours | Office Hours | Office Hours |
-| <span style="color:Orange">Live lab</span> | <span style="color:Green">Lecture released</span> | <span style="color:Blue">Discussion</span> | <span style="color:Green">Lecture released</span> | <span style="color:Red">Homework released</span> |
-| <span style="color:Orange">**Lab due**</span>, <span style="color:Green">**Quick Check due**</span> | | | <span style="color:Red">**Homework due**</span> | <span style="color:Orange">Lab released</span> |
+| | <span style="color:Green">Lecture released</span> | | <span style="color:Green">Lecture released</span> | |
+| <span style="color:Orange">Crit Section</span> | <span style="color:Orange">Crit Section</span> | | |
+| <span style="color:Blue">Discussion Section</span> | <span style="color:Blue">Discussion Section</span> | | | |
+| | | | <span style="color:Red">**Homework due**</span> | <span style="color:Red">Homework released</span> |
+| | | | <span style="color:Purple">**Lab due**</span> | <span style="color:Purple">Lab released</span> |
 
 Note that these deadlines are subject to change.
 
@@ -65,71 +68,72 @@ Note that these deadlines are subject to change.
 - **Lectures will be entirely pre-recorded**, in a format that is optimized for online learning (short 5-10 minute videos with conceptual problems in between). Lecture videos will be released on the mornings of Tuesday and Thursday.
   - Some of these will be from previous semesters, and some will be recorded this fall by the instructors.
   - Lecture videos will be posted on YouTube. Each “lecture” will be an html page linked on the course website, containing videos and links to slides and code.
-  - There are "Quick Check" conceptual questions in between each lecture video, linked on the lecture webpage. See below for more details.
+  <!-- - There are "Quick Check" conceptual questions in between each lecture video, linked on the lecture webpage. See below for more details. -->
   - Each lecture will also have a Piazza thread for students to ask questions.
 
 Note: Alongside each lecture are textbook readings. Textbook readings are purely supplementary, and may contain material that is not in scope (and may also not be comprehensive).
 
 <br>
 
-### Quick Checks
+<!-- ### Quick Checks
 
 Quick Checks, as mentioned above, are short conceptual questions embedded into each lecture, in the form of Google Forms. These are meant for you to check your understanding of the concepts that were just introduced. Since there are roughly 26 lectures, there are roughly 26 Quick Checks, each of which consists of 4-7 Google Forms.
 
 **Quick Checks are graded on completion.** That is, your score on them does not matter, you just need to do them. For each lecture, you will be required to submit a code to Gradescope that you will receive after completing one of the Google Forms for that lecture. These are due the Monday after the lecture is released. (Though we will assign grades using Gradescope, we will also collect emails on the Google Forms themselves.)
 
-<br>
+<br> -->
 
 ### Homeworks and Projects
 
-Homeworks are week-long assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture. Projects are two-week-long assignments that integrate these ideas with real-world datasets.
+Homeworks are week-long assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture.
 
 - In a typical week, homework is released on Friday and is due the following Thursday at 11:59PM.
-- Near the midterm, or during weeks in which a project is assigned, you will have more than one week to work on the current assignment.
+<!-- - Near the midterm, or during weeks in which a project is assigned, you will have more than one week to work on the current assignment. -->
 - One or two homeworks will be on-paper written assignments; the rest will be Jupyter notebooks.
 - Homeworks have both visible and hidden autograder tests. The visible tests are mainly sanity checks, e.g. a probability is <= 1, and are visible to students while they do the assignment. The hidden tests generally check for correctness, and are invisible to students while they are doing the assignment.
 - The primary form of support students will have for homeworks and projects are the **office hours** we’ll host, and **Piazza**.
 - Homeworks must be completed individually.
-
 
 <br>
 
 ### Labs
 
 Labs are shorter programming assignments designed to give students familiarity with new ideas.
-- In a typical week, lab is released on Friday and is due the following Monday.
+
+- In a typical week, lab is released on Friday and is due the following Thursday.
 - All lab autograder tests are visible.
-- To help with lab, we will host **live lab sections** on Monday at various times, in which GSIs will walk through the assignment via Zoom. See the [Calendar](../calendar) for when these are scheduled.
-- Students can also get help with labs at **office hours** and on **Piazza**.
+<!-- - To help with lab, we will host **live lab sections** on Monday at various times, in which GSIs will walk through the assignment via Zoom. See the [Calendar](../calendar) for when these are scheduled. -->
+- Students can get help with labs at **office hours** and on **Piazza**.
 
 <br>
 
-### Discussions
+<!-- ### Discussions
 
 Discussion sections are meant to allow students a chance to discuss conceptual ideas and solve problems with other students, with the help of a GSI (this becomes slightly harder given the fact that this course is being offered completely remotely). Each discussion consists of a worksheet.
 
 - In a typical week, we will release the discussion worksheet on Wednesday morning.
 - There are two “pathways” we envision students taking when it comes to consuming discussion content.
-  1. Watching a pre-recorded discussion video.
-  - Each discussion worksheet will be accompanied with a GSI-created video walkthrough, released at the same time. Students should watch this video soon after it is released.
-  - With any lingering questions, students should come to office hours.
-  2. Coming to a live Zoom discussion section.
+  - Watching a pre-recorded discussion video.
+    - Each discussion worksheet will be accompanied with a GSI-created video walkthrough, released at the same time. Students should watch this video soon after it is released.
+    - With any lingering questions, students should come to office hours.
+  - Coming to a live Zoom discussion section.
   - We will be holding live discussion sections at several times on Wednesdays. In the first few weeks, students will be able to attend whichever section they desire, but we will eventually require you to sign up for a particular section if you want to keep attending (this is to keep sections small and personal).
 
-<br>
+<br> -->
 
 ### Office Hours
+
 - We plan on hosting roughly 10 hours of office hours each weekday. These hours are listed on the [Calendar](../calendar).
 - OH will serve as a one-stop shop for students to get help with assignments.
 - Office Hours can be accessed via [oh.ds100.org](https://oh.ds100.org), where students add themselves to the "queue" and specify the assignment they need help on. Once it's their turn, they will be provided with a Zoom link to join, in order to get help from staff.
 - The instructors will also be hosting conceptual office hours. These will be reflected on the [Calendar](../calendar).
-- We are also holding "lost office hours" once a week. These are designed to accommodate students who are behind on material and would like help catching up. These are meant for conceptual questions only, not for assignment help. These will also be reflected on the [Calendar](../calendar).
+<!-- - We are also holding "lost office hours" once a week. These are designed to accommodate students who are behind on material and would like help catching up. These are meant for conceptual questions only, not for assignment help. These will also be reflected on the [Calendar](../calendar). -->
 
 <br>
 
 ### Exams
 
-There will be one midterm exam, on **October 15th** (7-9PM PDT), and a final exam on **December 15th** (7-10PM PST).
+There will be one midterm exam, on **March 9th** (time TBD), and a final exam on **May 12th** (11:30-2:30 PM PDT).
 
 Alternate exams will only be given to students with a documented conflict, or to those who are in timezones very far from Pacific Time, or to those who have extenuating circumstances.
 
@@ -137,7 +141,7 @@ Alternate exams will only be given to students with a documented conflict, or to
 
 <a name = 'policies'></a>
 
-## Policies
+<!-- ## Policies
 
 **Undergraduate Grading Scheme** (for students enrolled in Data C100):
 
@@ -162,21 +166,21 @@ Alternate exams will only be given to students with a documented conflict, or to
 
 Note that a ninth homework and second homework drop were announced partway through the semester.
 
-<br>
+<br> -->
 
 ### Late Policy
-All assignments are due at 11:59 pm on the due date specified on the syllabus. **Gradescope is where all assignments are submitted.** Extensions are only provided to students with DSP accommodations, or in the case of exceptional circumstances.
-- **Homeworks and labs will not be accepted late.**
-  - Gradescope may allow you to make late submissions, but you will later be given
-  a 0.
-- Projects are marked down by 10% per day, **up to two days**. After two days, project submissions will not be accepted.
-  - Submission times are rounded up to the next day. That is, 2 minutes late = 1 day late.
+
+All assignments are due at 11:59 pm on the due date specified on the syllabus. **Gradescope is where all assignments are submitted.** Extensions are only provided to students with DSP accommodations, or in the case of exceptional circumstances. **Homeworks and labs will not be accepted late.** Gradescope may allow you to make late submissions, but you will later be given a 0.
+
+<!-- - Projects are marked down by 10% per day, **up to two days**. After two days, project submissions will not be accepted.
+  - Submission times are rounded up to the next day. That is, 2 minutes late = 1 day late. -->
 
 <br>
 
 ### Collaboration Policy and Academic Dishonesty
 
 #### Assignments
+
 Data science is a collaborative activity. While you may talk with others about the homework, we ask that you write your solutions individually in your own words. If you do discuss the assignments with others please include their names at the top of your notebook. Keep in mind that content from assignments will likely be covered on both the midterm and final.
 
 If we suspect that you have submitted plagiarized work, we will call you in for a meeting. If we then determine that plagiarism has occurred, we reserve the right to give you a negative full score (-100%) or lower on the assignments in question, along with reporting your offense to the Center of Student Conduct.
@@ -189,7 +193,8 @@ We also ask that you **do not post your assignment solutions publicly**.
 
 Cheating on exams is a serious offense. We have methods of detecting cheating on exams – so don't do it! Students caught cheating on any exam will fail this course.  We will be following the [EECS departmental policy on Academic Honesty](https://eecs.berkeley.edu/resources/students/academic-dishonesty), so be sure you are familiar with it.
 
-<br> -->
+<br>
 
 ### We want you to succeed!
+
 If you are feeling overwhelmed, visit our office hours and talk with us. We know college can be stressful – and especially so during the COVID-19 pandemic – and we want to help you succeed.
