@@ -1,8 +1,8 @@
 ---
 name: Luanne Yang
-role: Tutor
+role: Teaching Assistant
 email: yangluanne@berkeley.edu
-photo: http://ds100.org/fa20/resources/assets/staff_pics/Luanne_Yang.jpg
+photo: ../resources/assets/staff_pics/Luanne_Yang.jpg
 oh: N/A
 ---
 

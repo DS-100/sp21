@@ -2,9 +2,9 @@
 name: Kunal Agarwal
 role: Teaching Assistant
 email: kagarwal2@berkeley.edu
-website: http://www.kunal-agarwal.com
-photo: http://ds100.org/fa20/resources/assets/staff_pics/Kunal_Agarwal.jpg
+website: http://kunal-agarwal.com
+photo: ../resources/assets/staff_pics/Kunal_Agarwal.jpg
 oh: N/A
 ---
 
-Hi, I’m Kunal! I’m a CS & Applied Math double major from the Bay Area. I destress by playing FIFA or Animal Crossing, and then stress myself out again watching the NBA (Go Warriors).
+Take a look at my Animal Crossing island! My Dream Address is DA-3284-6025-1117

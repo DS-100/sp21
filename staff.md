@@ -11,7 +11,7 @@ Jump to [Instructors](#inst), [Teaching Assistants](#tas), or [Tutors](#tutors)
 
 **Note:** Consult the [calendar](http://ds100.org/su20/calendar) for the most up-to-date office hours for each GSI.
 
-<!-- <a name = 'inst'></a>
+<a name = 'inst'></a>
 
 ## Instructors
 
@@ -42,4 +42,4 @@ Jump to [Instructors](#inst), [Teaching Assistants](#tas), or [Tutors](#tutors)
   {% for staffer in readers %}
   {{ staffer }}
   {% endfor %}
-</div> -->
+</div>
