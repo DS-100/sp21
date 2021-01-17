@@ -4,7 +4,7 @@ weekNumber: 13
 days:
 - date: 2021-04-12
   events:
-    ? '**Crit 6**{: .label .label-crit }'
+    ? '**Mini-Discussion 6**{: .label .label-crit }'
     : ''
 - date: 2021-04-13
   events:

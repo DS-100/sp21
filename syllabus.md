@@ -145,32 +145,28 @@ Alternate exams will only be given to students with a documented conflict, or to
 
 ## Policies
 
-The grading scheme for this course is currently TBD.
-
-<!--  **Undergraduate Grading Scheme** (for students enrolled in Data C100):
+ **Undergraduate Grading Scheme** (for students enrolled in Data C100):
 
 | Category | Weight | Details |
 | --- | --- | --- |
-| Homeworks | 30% | 8, with 2 drops |
+| Homeworks | 35% | 11 + 1 bonus, with 2 drops |
 | Labs | 10% | 13, with 3 drops |
-| Projects | 15% | 7.5% each (2, with 0 drops) |
-| Quick Checks | 5% | |
+| Section Assignments (small and large) | 20% | 13, with 3 drops |
 | Midterm Exam | 15% | |
-| Final | 25% |  |
+| Final | 20% |  |
 
 **Graduate Grading Scheme** (for students enrolled in Data C200):
 
 | Category | Weight | Details |
 | --- | --- | --- |
-| Homeworks | 30% | 8, with 2 drops |
-| Projects | 15% | 7.5% each (2, with 0 drops) |
+| Homeworks | 45% | 11 + 1 bonus, with 2 drops |
 | Final Project | 15% | |
 | Midterm Exam | 15% |  |
 | Final | 25% |  |
 
 Note that a ninth homework and second homework drop were announced partway through the semester.
 
-<br> -->
+<br>
 
 ### Late Policy
 

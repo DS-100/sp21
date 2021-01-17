@@ -4,7 +4,7 @@ weekNumber: 1
 days:
 - date: 2021-01-19
   events:
-    ? '**Fireside Chat 1**{: .label .label-live }'
+    ? '**Fireside Chat 1**{: .label .label-live } Introduction (at 9:30 AM)'
     : ''
     ? '**Lecture 1**{: .label .label-lecture } Introduction, Course Overview'
     : '[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)'

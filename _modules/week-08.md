@@ -4,7 +4,7 @@ weekNumber: 8
 days:
 - date: 2021-03-08
   events:
-    ? '**Crit 4**{: .label .label-crit }'
+    ? '**Mini-Discussion 4**{: .label .label-crit }'
     : ''
 - date: 2021-03-09
   events:
