@@ -4,7 +4,7 @@ weekNumber: 2
 days:
 - date: 2021-01-25
   events:
-    ? '**Crit 1**{: .label .label-crit }'
+    ? '**Mini-Discussion 1**{: .label .label-crit }'
     : ''
 - date: 2021-01-26
   events:

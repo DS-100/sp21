@@ -9,6 +9,7 @@ description: >-
 # Syllabus
 
 Jump to:
+
 - [About Data 100](#about)
 - [Online Format](#format)
 - [Policies](#policies)
@@ -18,7 +19,6 @@ Jump to:
 <a name = 'about'></a>
 
 ## About Data 100
-
 
 Combining data, computation, and inferential thinking, data science is redefining how people and organizations solve challenging problems and understand their world. This intermediate level class bridges between [Data8](http://data8.org) and upper division computer science and statistics courses as well as methods courses in other fields. In this class, we explore key areas of data science including question formulation, data collection and cleaning, visualization, statistical inference, predictive modeling, and decision making.​ Through a strong emphasis on data centric computing, quantitative critical thinking, and exploratory data analysis, this class covers key principles and techniques of data science. These include languages for transforming, querying and analyzing data; algorithms for machine learning methods including regression, classification and clustering; principles behind creating informative data visualizations; statistical concepts of measurement error and prediction; and techniques for scalable data processing.
 
@@ -107,7 +107,9 @@ Labs are shorter programming assignments designed to give students familiarity w
 
 <br>
 
-<!-- ### Discussions
+### Discussions
+
+#### Mini-Discussions
 
 Discussion sections are meant to allow students a chance to discuss conceptual ideas and solve problems with other students, with the help of a GSI (this becomes slightly harder given the fact that this course is being offered completely remotely). Each discussion consists of a worksheet.
 
@@ -119,7 +121,7 @@ Discussion sections are meant to allow students a chance to discuss conceptual i
   - Coming to a live Zoom discussion section.
   - We will be holding live discussion sections at several times on Wednesdays. In the first few weeks, students will be able to attend whichever section they desire, but we will eventually require you to sign up for a particular section if you want to keep attending (this is to keep sections small and personal).
 
-<br> -->
+<br>
 
 ### Office Hours
 
@@ -141,9 +143,11 @@ Alternate exams will only be given to students with a documented conflict, or to
 
 <a name = 'policies'></a>
 
-<!-- ## Policies
+## Policies
 
-**Undergraduate Grading Scheme** (for students enrolled in Data C100):
+The grading scheme for this course is currently TBD.
+
+<!--  **Undergraduate Grading Scheme** (for students enrolled in Data C100):
 
 | Category | Weight | Details |
 | --- | --- | --- |
