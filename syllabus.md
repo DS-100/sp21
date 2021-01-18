@@ -103,11 +103,12 @@ Labs are shorter programming assignments designed to give students familiarity w
 - In a typical week, lab is released on Friday and is due the following Thursday.
 - All lab autograder tests are visible.
 <!-- - To help with lab, we will host **live lab sections** on Monday at various times, in which GSIs will walk through the assignment via Zoom. See the [Calendar](../calendar) for when these are scheduled. -->
+- In previous semesters, we held live lab sections; this semester, we will _not_ be holding live sections for labs. Instead, the labs have been condensed and simplified, and will include a video walk-through to assist students in completing the assignment.
 - Students can get help with labs at **office hours** and on **Piazza**.
 
-<!-- <br>
+<br>
 
-### Discussions
+<!-- ### Discussions
 
 #### Mini-Discussions
 
