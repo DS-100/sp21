@@ -62,6 +62,19 @@ Note that these deadlines are subject to change.
 - To see when any live events are scheduled, check the [Calendar](../calendar).
 - To see when lectures, discussions, and assignments are released (and due), check the [Home Page](../).
 
+
+### Discussions
+
+This course has one required synchronous component: participating in your discussion section on Monday or Tuesday. The goal of these sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The format of the discussion will alternate each week between a meeting of your full discussion section and a shorter meeting of your small group called a mini.
+
+- **Full Discussion Section** (50 min): working through new challenging problems with your group and sharing with the larger section.
+- **Mini Discussion Section** (25 min): taking turns discussing selected problems from the previous homework with just your small group.
+
+The problems that you solve and present as part of discussion are important in understanding this material, so they are graded. Be sure to attend discussion.
+
+
+<br>
+
 ### Lecture
 
 - There are 2 lectures per week.
@@ -82,6 +95,7 @@ Quick Checks, as mentioned above, are short conceptual questions embedded into e
 **Quick Checks are graded on completion.** That is, your score on them does not matter, you just need to do them. For each lecture, you will be required to submit a code to Gradescope that you will receive after completing one of the Google Forms for that lecture. These are due the Monday after the lecture is released. (Though we will assign grades using Gradescope, we will also collect emails on the Google Forms themselves.)
 
 <br> -->
+
 
 ### Homeworks and Projects
 
@@ -104,22 +118,6 @@ Labs are shorter programming assignments designed to give students familiarity w
 - All lab autograder tests are visible.
 <!-- - To help with lab, we will host **live lab sections** on Monday at various times, in which GSIs will walk through the assignment via Zoom. See the [Calendar](../calendar) for when these are scheduled. -->
 - Students can get help with labs at **office hours** and on **Piazza**.
-
-<br>
-
-### Discussions
-
-#### Mini-Discussions
-
-Discussion sections are meant to allow students a chance to discuss conceptual ideas and solve problems with other students, with the help of a GSI (this becomes slightly harder given the fact that this course is being offered completely remotely). Each discussion consists of a worksheet.
-
-- In a typical week, we will release the discussion worksheet on Wednesday morning.
-- There are two “pathways” we envision students taking when it comes to consuming discussion content.
-  - Watching a pre-recorded discussion video.
-    - Each discussion worksheet will be accompanied with a GSI-created video walkthrough, released at the same time. Students should watch this video soon after it is released.
-    - With any lingering questions, students should come to office hours.
-  - Coming to a live Zoom discussion section.
-  - We will be holding live discussion sections at several times on Wednesdays. In the first few weeks, students will be able to attend whichever section they desire, but we will eventually require you to sign up for a particular section if you want to keep attending (this is to keep sections small and personal).
 
 <br>
 
