@@ -7,7 +7,9 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Jump to [Instructors](#inst), [Teaching Assistants](#tas), or [Tutors](#tutors)
+Jump to [Instructors](#inst) or [Teaching Assistants](#tas)
+
+<!-- , or [Tutors](#tutors) -->
 
 **Note:** Consult the [calendar](http://ds100.org/su20/calendar) for the most up-to-date office hours for each GSI.
 

@@ -20,7 +20,7 @@ Jump to:
 
 ## About Data 100
 
-Combining data, computation, and inferential thinking, data science is redefining how people and organizations solve challenging problems and understand their world. This intermediate level class bridges between [Data8](http://data8.org) and upper division computer science and statistics courses as well as methods courses in other fields. In this class, we explore key areas of data science including question formulation, data collection and cleaning, visualization, statistical inference, predictive modeling, and decision making.​ Through a strong emphasis on data centric computing, quantitative critical thinking, and exploratory data analysis, this class covers key principles and techniques of data science. These include languages for transforming, querying and analyzing data; algorithms for machine learning methods including regression, classification and clustering; principles behind creating informative data visualizations; statistical concepts of measurement error and prediction; and techniques for scalable data processing.
+Combining data, computation, and inferential thinking, data science is redefining how people and organizations solve challenging problems and understand their world. This intermediate level class bridges between [Data 8](http://data8.org) and upper division computer science and statistics courses as well as methods courses in other fields. In this class, we explore key areas of data science including question formulation, data collection and cleaning, visualization, statistical inference, predictive modeling, and decision making.​ Through a strong emphasis on data centric computing, quantitative critical thinking, and exploratory data analysis, this class covers key principles and techniques of data science. These include languages for transforming, querying and analyzing data; algorithms for machine learning methods including regression, classification and clustering; principles behind creating informative data visualizations; statistical concepts of measurement error and prediction; and techniques for scalable data processing.
 
 <br>
 
@@ -34,7 +34,7 @@ Combining data, computation, and inferential thinking, data science is redefinin
 
 ### Prerequisites
 
-While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites. **We are not enforcing prerequisites during enrollment. However, all of the prerequisties will be used starting very early on in the class. It is your responsibility to know the material in the prerequisites.**:
+While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites. **We are not enforcing prerequisites during enrollment. However, all of the prerequisties will be used starting very early on in the class. It is your responsibility to know the material in the prerequisites.**
 
 - **Foundations of Data Science**: [Data8](http://data8.org) covers much of the material in Data 100 but at an introductory level. Data8 provides basic exposure to python programming and working with tabular data as well as visualization, statistics, and machine learning.
 - **Computing**: _The Structure and Interpretation of Computer Programs_ ([CS 61A](http://cs61a.org)) or _Computational Structures in Data Science_ ([CS 88](https://cs88-website.github.io)). These courses provide additional background in python programming (e.g., for loops, lambdas, debugging, and complexity) that will enable Data 100 to focus more on the concepts in Data Science and less on the details of programming in python.
@@ -52,7 +52,7 @@ This spring, Data 100 will be run entirely online. This section details exactly 
 | --- | --- | --- | --- | --- |
 | Office Hours | Office Hours | Office Hours | Office Hours | Office Hours |
 | | <span style="color:Green">Lecture released</span> | | <span style="color:Green">Lecture released</span> | |
-| <span style="color:Orange">Crit Section</span> | <span style="color:Orange">Crit Section</span> | | |
+| <span style="color:Orange">Mini-Discussion Section</span> | <span style="color:Orange">Mini-Discussion Section</span> | | |
 | <span style="color:Blue">Discussion Section</span> | <span style="color:Blue">Discussion Section</span> | | | |
 | | | | <span style="color:Red">**Homework due**</span> | <span style="color:Red">Homework released</span> |
 | | | | <span style="color:Purple">**Lab due**</span> | <span style="color:Purple">Lab released</span> |
@@ -83,7 +83,7 @@ Quick Checks, as mentioned above, are short conceptual questions embedded into e
 
 <br> -->
 
-### Homeworks and Projects
+### Homeworks
 
 Homeworks are week-long assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture.
 
@@ -105,7 +105,7 @@ Labs are shorter programming assignments designed to give students familiarity w
 <!-- - To help with lab, we will host **live lab sections** on Monday at various times, in which GSIs will walk through the assignment via Zoom. See the [Calendar](../calendar) for when these are scheduled. -->
 - Students can get help with labs at **office hours** and on **Piazza**.
 
-<br>
+<!-- <br>
 
 ### Discussions
 
@@ -121,7 +121,7 @@ Discussion sections are meant to allow students a chance to discuss conceptual i
   - Coming to a live Zoom discussion section.
   - We will be holding live discussion sections at several times on Wednesdays. In the first few weeks, students will be able to attend whichever section they desire, but we will eventually require you to sign up for a particular section if you want to keep attending (this is to keep sections small and personal).
 
-<br>
+<br> -->
 
 ### Office Hours
 
@@ -135,7 +135,7 @@ Discussion sections are meant to allow students a chance to discuss conceptual i
 
 ### Exams
 
-There will be one midterm exam, on **March 9th** (time TBD), and a final exam on **May 12th** (11:30-2:30 PM PDT).
+There will be one midterm exam, on **March 9th** (7:00-9:00 PM PST), and a final exam on **May 12th** (11:30-2:30 PM PDT).
 
 Alternate exams will only be given to students with a documented conflict, or to those who are in timezones very far from Pacific Time, or to those who have extenuating circumstances.
 
