@@ -12,7 +12,7 @@ description: Calendars with times for all course events.
 
 <a name='ldlc'></a>
 
-## Discussion, Lab, and Special Events Calendar
+## Section and Special Events Calendar
 
 This calendar contains times for
 
