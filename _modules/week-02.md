@@ -11,7 +11,7 @@ days:
     ? '**Fireside Chat 2**{: .label .label-live }'
     : ''
     ? '**Lecture 3**{: .label .label-lecture } Random Variables'
-    : '[Ch. 12.1-12.2](https://www.textbook.ds100.org/ch/12/prob_random_vars.html)'
+    : '[Ch. 15.1-15.2](https://www.textbook.ds100.org/ch/15/prob_random_vars.html)'
 - date: 2021-01-27
   events:
     ? 'N/A'
@@ -19,7 +19,7 @@ days:
 - date: 2021-01-28
   events:
     ? '**Lecture 4**{: .label .label-lecture } SQL'
-    : '[Ch. 9](https://www.textbook.ds100.org/ch/09/sql_intro.html)'
+    : '[Ch. 5](https://www.textbook.ds100.org/ch/05/sql_intro.html)'
 - date: 2021-01-29
   events:
     ? '**Lab 2**{: .label .label-lab } SQL (due Feb 4)'

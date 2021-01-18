@@ -19,7 +19,7 @@ days:
 - date: 2021-03-11
   events:
     ? '**Lecture 14**{: .label .label-lecture } Feature Engineering'
-    : '[Ch. 14](https://www.textbook.ds100.org/ch/14/feature_engineering.html)'
+    : '[Ch. 19](https://www.textbook.ds100.org/ch/19/feature_engineering.html)'
 - date: 2021-03-12
   events:
     ? '**Lab 8**{: .label .label-lab } Multiple Linear Regression and Feature Engineering (due Mar 18)'

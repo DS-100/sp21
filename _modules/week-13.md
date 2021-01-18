@@ -11,7 +11,8 @@ days:
     ? '**Fireside Chat 12**{: .label .label-live }'
     : ''
     ? '**Lecture 21**{: .label .label-lecture } Inference for Modeling'
-    : '[Ch. 18.1, 18.3](https://www.textbook.ds100.org/ch/18/hyp_intro.html)'
+    # : '[Ch. 18.1, 18.3](https://www.textbook.ds100.org/ch/18/hyp_intro.html)'
+    : ''
 - date: 2021-04-14
   events:
     ? 'N/A'
@@ -19,7 +20,7 @@ days:
 - date: 2021-04-15
   events:
     ? '**Lecture 22**{: .label .label-lecture } Clustering'
-    : ''
+    : '[Ch. 27](https://www.textbook.ds100.org/ch/27/clustering_intro.html)'
 - date: 2021-04-16
   events:
     ? '**Lab 12**{: .label .label-lab } TBD (due Apr 22)'

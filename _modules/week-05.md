@@ -11,7 +11,7 @@ days:
     ? '**Fireside Chat 5**{: .label .label-live }'
     : ''
     ? '**Lecture 9**{: .label .label-lecture } Visualization I'
-    : '[Ch. 6.1-6.3](https://www.textbook.ds100.org/ch/06/viz_quantitative.html)'
+    : '[Ch. 10.1-10.3](https://www.textbook.ds100.org/ch/10/viz_quantitative.html)'
 - date: 2021-02-17
   events:
     ? 'N/A'
@@ -19,7 +19,7 @@ days:
 - date: 2021-02-18
   events:
     ? '**Lecture 10**{: .label .label-lecture } Visualization II'
-    : '[Ch. 6.4-6.6](https://www.textbook.ds100.org/ch/06/viz_principles.html)'
+    : '[Ch. 10.4-10.6](https://www.textbook.ds100.org/ch/10/viz_principles.html)'
 - date: 2021-02-19
   events:
     ? '**Lab 5**{: .label .label-lab } Transformations and KDEs (due Feb 25)'

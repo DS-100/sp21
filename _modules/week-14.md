@@ -11,7 +11,7 @@ days:
     ? '**Fireside Chat 13**{: .label .label-live }'
     : ''
     ? '**Lecture 23**{: .label .label-lecture } Principal Component Analysis'
-    : ''
+    : '[Ch. 25](https://www.textbook.ds100.org/ch/25/pca_intro.html)'
 - date: 2021-04-21
   events:
     ? 'N/A'

@@ -11,7 +11,7 @@ days:
     ? '**Fireside Chat 4**{: .label .label-live }'
     : ''
     ? '**Lecture 7**{: .label .label-lecture } Data Cleaning and EDA'
-    : '[Ch. 4.1](https://www.textbook.ds100.org/ch/04/eda_data_types.html), [Ch. 5](https://www.textbook.ds100.org/ch/05/cleaning_intro.html)'
+    : '[Ch. 7](https://www.textbook.ds100.org/ch/07/repr_intro.html), [Ch. 8](https://www.textbook.ds100.org/ch/08/quality_intro.html), [Ch. 9](https://www.textbook.ds100.org/ch/09/eda_intro.html)'
 - date: 2021-02-10
   events:
     ? 'N/A'
@@ -19,7 +19,7 @@ days:
 - date: 2021-02-11
   events:
     ? '**Lecture 8**{: .label .label-lecture } Regular Expressions'
-    : '[Ch. 8](https://www.textbook.ds100.org/ch/08/text_intro.html)'
+    : '[Ch. 12](https://www.textbook.ds100.org/ch/12/text_intro.html)'
 - date: 2021-02-12
   events:
     ? '**Lab 4**{: .label .label-lab } Data Cleaning and EDA (due Feb 18)'

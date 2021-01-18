@@ -11,7 +11,7 @@ days:
     ? '**Fireside Chat 6**{: .label .label-live }'
     : ''
     ? '**Lecture 11**{: .label .label-lecture } Modeling'
-    : '[Ch. 10](https://www.textbook.ds100.org/ch/10/modeling_intro.html)'
+    : '[Ch. 3](https://www.textbook.ds100.org/ch/3/modeling_intro.html)'
 - date: 2021-02-24
   events:
     ? 'N/A'
@@ -19,7 +19,7 @@ days:
 - date: 2021-02-25
   events:
     ? '**Lecture 12**{: .label .label-lecture } Simple Linear Regression'
-    : '[Ch. 13.1-13.3](https://www.textbook.ds100.org/ch/13/linear_tips.html)'
+    : '[Ch. 14.1-14.3](https://www.textbook.ds100.org/ch/14/linear_tips.html)'
 - date: 2021-02-26
   events:
     ? '**Lab 6**{: .label .label-lab } Modeling, Summary Statistics, and Loss Functions (due Mar 4)'
