@@ -66,7 +66,7 @@ Note that these deadlines are subject to change.
 
 ### Discussions
 
-This course has one required synchronous component: participating in your discussion section on Monday or Tuesday. The goal of these sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The format of the discussion will alternate each week between a meeting of your full discussion section and a shorter meeting of your small group called a mini.
+This course has one required synchronous component: participating in your discussion section on Monday or Tuesday. The goal of these sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The format of the discussion will alternate each week between a meeting of your full discussion section and a shorter meeting of your small group called a mini-discussion.
 
 - **Full Discussion Section** (50 min): working through new challenging problems with your group and sharing with the larger section.
 - **Mini Discussion Section** (25 min): taking turns discussing selected problems from the previous homework with just your small group.
