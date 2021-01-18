@@ -20,7 +20,7 @@ This calendar contains times for
 - live mini-discussions sections (in <span style="color:red">**red**</span>)
 - other special events, such as lost office hours (in <span style="color:Gold">**yellow**</span>)
 
-<!-- To access these events, use the Zoom links posted in <b><a href="https://piazza.com/class/ke37haavnl86ul?cid=15">@15 on Piazza</a></b>. -->
+To access these events, use the Zoom links posted in <b><a href="https://piazza.com/class/kk0b2ef3e7x5s3?cid=6">@6 on Piazza</a></b>.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=Y19zZ2hiOG9naDdxaGl0Z3BuamlpMG43NW0xb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y192aGVmZG1sMXJhcm11bHA4YW8yZmlvbXFrOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y181NXBhcjdzcXI4Z3ZkaHNtYmNjcnM4bm11Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23D50000&amp;color=%233F51B5&amp;color=%23E4C441&amp;showTitle=0&amp;showCalendars=1&amp;mode=WEEK" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
