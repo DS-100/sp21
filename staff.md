@@ -35,11 +35,11 @@ Jump to [Instructors](#inst), [Teaching Assistants](#tas), or [Tutors](#tutors)
 
 <a name = 'tutors'></a>
 
-## Tutors
+<!-- ## Tutors
 
 <div class="role">
   {% assign readers = site.staffers | where: 'role', 'Tutor' %}
   {% for staffer in readers %}
   {{ staffer }}
   {% endfor %}
-</div>
+</div> -->
