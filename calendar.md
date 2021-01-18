@@ -16,8 +16,8 @@ description: Calendars with times for all course events.
 
 This calendar contains times for
 
-- live discussion sessions (in <span style="color:SkyBlue">**blue**</span>)
-- live crit sessions (in <span style="color:red">**red**</span>)
+- live discussion sections (in <span style="color:SkyBlue">**blue**</span>)
+- live mini-discussions sections (in <span style="color:red">**red**</span>)
 - other special events, such as lost office hours (in <span style="color:Gold">**yellow**</span>)
 
 <!-- To access these events, use the Zoom links posted in <b><a href="https://piazza.com/class/ke37haavnl86ul?cid=15">@15 on Piazza</a></b>. -->
