@@ -162,7 +162,7 @@ Alternate exams will only be given to students with a documented conflict, or to
 | Midterm Exam | 15% |  |
 | Final | 25% |  |
 
-Note that a ninth homework and second homework drop were announced partway through the semester.
+<!-- Note that a ninth homework and second homework drop were announced partway through the semester. -->
 
 <br>
 
