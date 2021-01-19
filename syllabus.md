@@ -183,7 +183,7 @@ Regrade requests will **not** be considered in cases in which:
 
 ### Late Policy
 
-All assignments are due at 11:59 pm on the due date specified on the syllabus. **Gradescope is where all assignments are submitted.** Extensions are only provided to students with DSP accommodations, or in the case of exceptional circumstances. **Homeworks and labs will not be accepted late.** Gradescope may allow you to make late submissions, but you will later be given a 0.
+All assignments are due at 11:59 pm on the due date specified on the syllabus. **Gradescope is where all assignments are submitted.** Extensions are only provided to students with DSP accommodations, or in the case of exceptional circumstances. If these conditions apply, please make a private Piazza post and email [johntsor@berkeley.edu](mailto:johntsor@berkeley.edu) to request an extension **Homeworks and labs will not be accepted late.** Gradescope may allow you to make late submissions, but you will later be given a 0.
 
 <!-- - Projects are marked down by 10% per day, **up to two days**. After two days, project submissions will not be accepted.
   - Submission times are rounded up to the next day. That is, 2 minutes late = 1 day late. -->
