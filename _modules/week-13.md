@@ -12,7 +12,7 @@ days:
     : ''
     ? '**Lecture 21**{: .label .label-lecture } Inference for Modeling'
     # : '[Ch. 18.1, 18.3](https://www.textbook.ds100.org/ch/18/hyp_intro.html)'
-    : ''
+    : '[Appendix 3](http://www.textbook.ds100.org/ch/a03/hyp_intro.html)'
 - date: 2021-04-14
   events:
     ? 'N/A'
