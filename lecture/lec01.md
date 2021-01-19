@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Lecture 1 – Introduction, Course Overview
 
-Presented by Anthony D. Joseph and Fernando Perez
+Presented by Andrew Bray and Joseph E. Gonzalez
 
 Content by Suraj Rampure, Allen Shen, Joseph Gonzalez, Josh Hug, and Sam Lau
 
