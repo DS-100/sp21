@@ -6,7 +6,7 @@ days:
   events:
     ? '**Fireside Chat 1**{: .label .label-live } Introduction (at 9:30 AM)'
     : ''
-    ? '**Lecture 1**{: .label .label-lecture } Introduction, Course Overview'
+    ? '**Lecture 1**{: .label .label-lecture } [Introduction, Course Overview](lecture/lec01)'
     : '[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)'
     ? '**Lab 0**{: .label .label-lab } Gather (due Jan 21)'
     : ''
