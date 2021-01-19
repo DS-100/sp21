@@ -10,7 +10,7 @@ Presented by Anthony D. Joseph and Fernando Perez
 
 Content by Suraj Rampure, Allen Shen, Joseph Gonzalez, Josh Hug, and Sam Lau
 
-- [slides](https://docs.google.com/presentation/d/1GLoaGwgmpZFrKlm4PgxUjlk-CmjhIlh_gsBBU-sqYpY/edit?usp=sharing)
+- [slides](https://docs.google.com/presentation/d/1bYIsQFNRDva1bEagPShkY56pR2crXvVhhqmkF04OKpY/edit?usp=sharing)
 - video to be released shortly
 <!-- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpUgK4Q5W1zlkF2SCj8XiPu) -->
 - [code](https://github.com/DS-100/sp21/tree/main/lec/lec01) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec01/&branch=main))
