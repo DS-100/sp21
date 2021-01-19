@@ -79,7 +79,7 @@ The problems that you solve and present as part of discussion are important in u
 
 - There are 2 lectures per week.
 - **Lectures will be entirely pre-recorded**, in a format that is optimized for online learning (short 5-10 minute videos with conceptual problems in between). Lecture videos will be released on the mornings of Tuesday and Thursday.
-  - Some of these will be from previous semesters, and some will be recorded this fall by the instructors.
+  - Some of these will be from previous semesters, and some will be recorded this spring by the instructors.
   - Lecture videos will be posted on YouTube. Each “lecture” will be an html page linked on the course website, containing videos and links to slides and code.
   <!-- - There are "Quick Check" conceptual questions in between each lecture video, linked on the lecture webpage. See below for more details. -->
   - Each lecture will also have a Piazza thread for students to ask questions.
