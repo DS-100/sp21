@@ -139,6 +139,21 @@ Alternate exam times will be offered for the midterm and final, and the form to 
 
 <br>
 
+### Regrade Requests
+
+Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. Regrades for the written portions of assignments will be handled through Gradescope, and autograder regrades via a Google Form. 
+
+**Always check that the autograder executes correctly!** Gradescope will show you the output of the public tests, and you should see the same results as you did on DataHub. If you see a discrepancy, ensure that you have exported the assignment correctly and, if there is still an issue, post on Piazza _as soon as possible_. 
+
+Regrade requests will **not** be considered in cases in which:
+
+- a student uploads the incorrect file to the autograder
+- the autograder fails to execute and the student does not notify the course staff _before the assignment deadline_
+- a student fails to save their notebook before exporting and uploads an old version to the autograder
+- a situation arises in which the course staff cannot ensure that the student's work was done before the assignment deadline
+
+<br>
+
 <a name = 'policies'></a>
 
 ## Policies
