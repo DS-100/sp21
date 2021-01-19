@@ -135,7 +135,7 @@ Labs are shorter programming assignments designed to give students familiarity w
 
 There will be one midterm exam, on **March 9th** (7:00-9:00 PM PST), and a final exam on **May 12th** (11:30-2:30 PM PDT).
 
-Alternate exams will only be given to students with a documented conflict, or to those who are in timezones very far from Pacific Time, or to those who have extenuating circumstances.
+Alternate exam times will be offered for the midterm and final, and the form to request the alternate will be posted on Piazza during the second week of classes. The alternate midterm is March 10th 8:00-10:00 AM PST and the alternate final is May 12th 7:00-10:00 PM PDT. The primary purpose of the alternate exam is to accommodate different timezones, but students with documented conflicts and unique personal circumstances may also be approved to take the alternate exam.
 
 <br>
 
