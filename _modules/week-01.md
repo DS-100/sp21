@@ -8,7 +8,7 @@ days:
     : ''
     ? '**Lecture 1**{: .label .label-lecture } [Introduction, Course Overview](lecture/lec01)'
     : '[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)'
-    ? '**Lab 0**{: .label .label-lab } Gather (due Jan 21)'
+    ? '**Lab 0**{: .label .label-lab } Gather and Logistics (due Jan 21)'
     : ''
 - date: 2021-01-20
   events:
