@@ -8,7 +8,7 @@ days:
     : ''
     ? '**Lecture 1**{: .label .label-lecture } [Introduction, Course Overview](lecture/lec01)'
     : '[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)'
-    ? '**Homework 0**{: .label .label-hw } Gather and Logistics (due Jan 21)'
+    ? '**Homework 0**{: .label .label-hw } [Gather and Logistics](https://www.gradescope.com/courses/230522/assignments/948282) (due Jan 21)'
     : ''
 - date: 2021-01-20
   events:
