@@ -4,10 +4,10 @@ weekNumber: 1
 days:
 - date: 2021-01-19
   events:
-    ? '**Fireside Chat 1**{: .label .label-live } Introduction (at 9:30 AM)'
-    : ''
-    ? '**Lecture 1**{: .label .label-lecture } [Introduction, Course Overview](lecture/lec01)'
+    ? '**Fireside Chat 1**{: .label .label-live } [Introduction, Course Overview](lecture/lec01) (at 9:30 AM)'
     : '[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)'
+    # ? '**Lecture 1**{: .label .label-lecture } [Introduction, Course Overview](lecture/lec01)'
+    # : ''
     ? '**Homework 0**{: .label .label-hw } [Gather and Logistics](https://www.gradescope.com/courses/230522/assignments/948282) (due Jan 21)'
     : ''
 - date: 2021-01-20
