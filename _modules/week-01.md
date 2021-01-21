@@ -4,7 +4,7 @@ weekNumber: 1
 days:
 - date: 2021-01-19
   events:
-    ? '**Fireside Chat 1**{: .label .label-live } [Introduction, Course Overview](lecture/lec01) (at 9:30 AM)'
+    ? '**Fireside Chat 1**{: .label .label-live } [Introduction, Course Overview](lecture/lec01) ([Recording](https://kaltura.berkeley.edu/media/1_v8xnccgq))'
     : '[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)'
     # ? '**Lecture 1**{: .label .label-lecture } [Introduction, Course Overview](lecture/lec01)'
     # : ''
