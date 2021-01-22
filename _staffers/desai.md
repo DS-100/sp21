@@ -7,4 +7,4 @@ photo: ../resources/assets/staff_pics/Priyans_Desai.jpg
 oh: N/A
 ---
 
-Hi everyone! I am Priyans. I am a junior studying CS and minoring in Data Science. This is my 4th time on 16B staff. I really enjoyed the car project, especially controls when I took the class. I am heavily involved with teaching through different clubs and courses at Berkeley. Hoping to make labs a great experience for you all!
+Hi! I am Priyans. I am a junior from India studying Computer Science. I really enjoyed Data 100 when I took it. I enjoy teaching and have been heavily involved with teaching since my second semester at Cal. I also run an initiative for Freshmen (Bear Advising), check it out here: [bit.ly/bear-advising](https://bit.ly/bear-advising). Feel free to email me about anything and I hope you all have a great semester :)
