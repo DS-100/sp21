@@ -1,5 +1,5 @@
 ---
-name: Priyans Desi
+name: Priyans Desai
 role: Tutor
 email: priyansdesai@berkeley.edu
 website: https://priyansdesai.github.io
