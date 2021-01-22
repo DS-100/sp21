@@ -198,7 +198,7 @@ Data science is a collaborative activity. While you may talk with others about t
 
 If we suspect that you have submitted plagiarized work, we will call you in for a meeting. If we then determine that plagiarism has occurred, we reserve the right to give you a negative full score (-100%) or lower on the assignments in question, along with reporting your offense to the Center of Student Conduct.
 
-Rather than copying someone else's work, ask for help. You are not alone in this course! The entire staff is here to help you succeed. If you invest the time to learn the material and complete the assignments, you won't need to copy any answers. (taken from [61A](https://cs61a.org/articles/about.html#academic-honesty))
+Rather than copying someone else's work, ask for help. You are not alone in this course! The entire staff is here to help you succeed. If you invest the time to learn the material and complete the assignments, you won't need to copy any answers. (taken from [61A](https://cs61a.org/articles/about/#academic-honesty))
 
 We also ask that you **do not post your assignment solutions publicly**.
 
