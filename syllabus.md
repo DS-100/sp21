@@ -151,6 +151,7 @@ Regrade requests will **not** be considered in cases in which:
 - the autograder fails to execute and the student does not notify the course staff _before the assignment deadline_
 - a student fails to save their notebook before exporting and uploads an old version to the autograder
 - a situation arises in which the course staff cannot ensure that the student's work was done before the assignment deadline
+- a students submits without following the steps outlined in <a href="https://piazza.com/class/kk0b2ef3e7x5s3?cid=101">@101 on Piazza</a>
 
 <br>
 
