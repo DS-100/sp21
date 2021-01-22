@@ -20,7 +20,7 @@ days:
     : '[Ch. 2](https://www.textbook.ds100.org/ch/02/design_intro.html)'
 - date: 2021-01-22
   events:
-    ? '**Lab 1**{: .label .label-lab } Prerequisite Coding (due Jan 28)'
+    ? '**Lab 1**{: .label .label-lab } [Prerequisite Coding](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&urlpath=tree%2Fsp21%2Flab%2Flab01&branch=main) (due Jan 28)'
     : ""
     ? '**Homework 1**{: .label .label-hw } Prerequisites (due Jan 28)'
     : ''
