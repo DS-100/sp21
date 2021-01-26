@@ -27,6 +27,7 @@ UC Berkeley, Spring 2021
 <li>The <a href="{{ site.baseurl }}/syllabus">Syllabus</a> contains a detailed explanation of how each course component will work this spring, given that the course is being taught entirely online.</li>
 <li>The scheduling of all weekly events is in the <a href="{{ site.baseurl }}/calendar">Calendar</a>.</li>
 <li>The Zoom links for all live events are in <a href="https://piazza.com/class/kk0b2ef3e7x5s3?cid=6">@6 on Piazza</a>.</li>
+<li>Live events and lectures are highlighted in <strong><span style="color: green">green</span></strong> and asynchronous ones in <strong><span style="color: blue">blue</span></strong>.</li>
 <li><strong>Note:</strong> The schedule of lectures and assignments is subject to change.</li>
 </ul>
 
