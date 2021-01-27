@@ -8,7 +8,7 @@ days:
     : ''
 - date: 2021-01-26
   events:
-    ? '**Lecture 3**{: .label .label-live } Random Variables ([Slides](resources/assets/lectures/lec03/lec03.pdf))'
+    ? '**Lecture 3**{: .label .label-live } [Estimation and Bias]( dhttps://youtu.be/7sPBOke4b5A) ([Slides](resources/assets/lectures/lec03/lec03.pdf))'
     : '[Ch. 15.1-15.2](https://www.textbook.ds100.org/ch/15/prob_random_vars.html)'
 - date: 2021-01-27
   events:
