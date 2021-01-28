@@ -2,6 +2,7 @@
 name: Albert Tang
 role: Teaching Assistant
 email: alberttang@berkeley.edu
+website: http://bit.ly/ilovedata100
 photo: ../resources/assets/staff_pics/Albert_Tang.jpg
 oh: N/A
 ---
