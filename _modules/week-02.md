@@ -16,7 +16,7 @@ days:
     : ''
 - date: 2021-01-28
   events:
-    ? '**Lecture 4**{: .label .label-lecture } SQL'
+    ? '**Lecture 4**{: .label .label-lecture } [SQL](lecture/lec04)'
     : '[Ch. 5](https://www.textbook.ds100.org/ch/05/sql_intro.html)'
 - date: 2021-01-29
   events:

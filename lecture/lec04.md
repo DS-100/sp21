@@ -11,13 +11,13 @@ Presented by Anthony D. Joseph
 Content by Anthony D. Joseph, Allen Shen, Josh Hug, John DeNero, Joseph Gonzalez
 
 - [slides](https://docs.google.com/presentation/d/1iM8dv-LFEghSMQr4-sh6JnaAUGHV-3j4FLu-718YCzU/edit?usp=sharing)
-- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpoTAh65AL_k1hVjNE-Kw5X)
-- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec04/)
+- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqNOs2WA_9ZXw5wE4-KVbkA)
+- [code](https://github.com/DS-100/sp21/tree/main/lec/lec04) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec04/&branch=main))
 - [code HTML](../../resources/assets/lectures/lec04/lec04.html)
 - [code walkthrough by Josh Hug](https://youtu.be/QCrHZnLM0H4)
 - [code walkthrough by Allen Shen](https://youtu.be/zetdBg61eaE)
 
-A random one of the following nine Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 4" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Monday, September 14th at 11:59PM** to get credit for it.
+A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
 
 <table>
 <colgroup>
