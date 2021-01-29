@@ -20,7 +20,7 @@ days:
     : '[Ch. 5](https://www.textbook.ds100.org/ch/05/sql_intro.html)'
 - date: 2021-01-29
   events:
-    ? '**Lab 2**{: .label .label-lab } SQL (due Feb 4)'
+    ? '**Lab 2**{: .label .label-lab } [SQL](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&urlpath=tree%2Fsp21%2Flab%2Flab02&branch=main) (due Feb 4)'
     : ''
     ? '**Homework 2**{: .label .label-hw } Trump Sampling (due Feb 4)'
     : ''
