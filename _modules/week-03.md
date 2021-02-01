@@ -4,7 +4,7 @@ weekNumber: 3
 days:
 - date: 2021-02-01
   events:
-    ? '**Discussion 1**{: .label .label-disc }'
+    ? '**Discussion 1**{: .label .label-disc } [Random Variables, Sampling, and SQL](https://drive.google.com/file/d/1nWUFl5kzvUcOm-D5s363gjGY4Ysfq3Dn/view?usp=sharing)'
     : ''
 - date: 2021-02-02
   events:
