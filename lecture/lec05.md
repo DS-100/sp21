@@ -11,10 +11,10 @@ Presented by Fernando Perez
 Content by Fernando Perez, Josh Hug
 
 - [slides](https://docs.google.com/presentation/d/1afDZnCeBrzdOlL3osFNb3hdb21Hrt0pJG02USEqIGPw/edit#slide=id.g8ae4121a16_0_1022)
-- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpIy60VNOKWpNeFS4hiSeBy)
-- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec05/)
+- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrlNxXQA6EHN_WYIstpeoq6)
+- [code](https://github.com/DS-100/sp21/tree/main/lec/lec05) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec05/&branch=main))
 - [code HTML](../../resources/assets/lectures/lec05/lec05.html)
-- [Intro to Pandas if you’ve taken Data 8 (zip)](https://github.com/DS-100/fa20/raw/master/lecture/lec05/pandas_for_data8_students.zip)
+- [Intro to Pandas if you’ve taken Data 8 (zip)](https://github.com/DS-100/sp21/raw/main/lec/lec05/pandas_for_data8_students.zip)
 
 A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 5" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Monday, September 14th at 11:59PM** to get credit for it.
 
@@ -32,6 +32,11 @@ A random one of the following Google Forms will give you an alphanumeric code on
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>5.0</strong> <br> Announcements, SQL Review.</td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/PQJ_TD-tP7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td></td>
+</tr>
 <tr>
 <td><strong>5.1.1</strong> <br> Pandas data frames, series, and indices.</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/VWa5J1GDHgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
