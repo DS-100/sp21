@@ -8,10 +8,10 @@ days:
     : ''
 - date: 2021-02-02
   events:
-    ? '**Lecture 5**{: .label .label-lecture } [Pandas I](lecture/lec05)'
-    : '[Ch. 6](https://www.textbook.ds100.org/ch/06/pandas_intro.html)'
     ? '**Fireside Chat 3**{: .label .label-live }'
     : ''
+    ? '**Lecture 5**{: .label .label-lecture } [Pandas I](lecture/lec05)'
+    : '[Ch. 6](https://www.textbook.ds100.org/ch/06/pandas_intro.html)'
 - date: 2021-02-03
   events:
     ? 'N/A'
