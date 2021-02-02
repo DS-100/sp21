@@ -8,7 +8,7 @@ days:
     : ''
 - date: 2021-02-02
   events:
-    ? '**Fireside Chat 3**{: .label .label-live }'
+    ? '**Fireside Chat 3**{: .label .label-live } [SQL and Pandas](https://docs.google.com/presentation/d/1dlDFQ-wO9_QyWPw2u5Y0IpfmlvJ7EyB6D_kKnBXNbxs/edit)'
     : ''
     ? '**Lecture 5**{: .label .label-lecture } [Pandas I](lecture/lec05)'
     : '[Ch. 6](https://www.textbook.ds100.org/ch/06/pandas_intro.html)'
