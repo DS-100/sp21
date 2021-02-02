@@ -8,7 +8,7 @@ days:
     : ''
 - date: 2021-04-13
   events:
-    ? '**Fireside Chat 12**{: .label .label-live }'
+    ? '**Fireside Chat 11**{: .label .label-live }'
     : ''
     ? '**Lecture 21**{: .label .label-lecture } Inference for Modeling'
     # : '[Ch. 18.1, 18.3](https://www.textbook.ds100.org/ch/18/hyp_intro.html)'

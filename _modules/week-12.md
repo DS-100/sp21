@@ -8,7 +8,7 @@ days:
     : ''
 - date: 2021-04-06
   events:
-    ? '**Fireside Chat 11**{: .label .label-live }'
+    ? '**Fireside Chat 10**{: .label .label-live }'
     : ''
     ? '**Lecture 19**{: .label .label-lecture } Logistic Regression II, Classification'
     : '[Ch. 23.4-23.7](https://www.textbook.ds100.org/ch/23/classification_log_reg.html)'

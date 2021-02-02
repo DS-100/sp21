@@ -8,7 +8,7 @@ days:
     : ''
 - date: 2021-03-30
   events:
-    ? '**Fireside Chat 10**{: .label .label-live }'
+    ? '**Fireside Chat 9**{: .label .label-live }'
     : ''
     ? '**Lecture 17**{: .label .label-lecture } Gradient Descent'
     : '[Ch. 16](https://www.textbook.ds100.org/ch/16/gradient_descent.html)'

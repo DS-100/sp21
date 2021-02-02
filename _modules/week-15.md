@@ -8,7 +8,7 @@ days:
     : ''
 - date: 2021-04-27
   events:
-    ? '**Fireside Chat 14**{: .label .label-live }'
+    ? '**Fireside Chat 13**{: .label .label-live }'
     : ''
     ? '**Lecture 25**{: .label .label-lecture } TBD'
     : ''

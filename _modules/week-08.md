@@ -8,7 +8,7 @@ days:
     : ''
 - date: 2021-03-09
   events:
-    ? '**Fireside Chat 8**{: .label .label-live }'
+    ? '**Fireside Chat 7**{: .label .label-live }'
     : ''
     ? '**Exam**{: .label .label-exam } Midterm (7-9PM PDT)'
     : ''
