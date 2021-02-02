@@ -16,7 +16,7 @@ Content by Fernando Perez, Josh Hug
 - [code HTML](../../resources/assets/lectures/lec05/lec05.html)
 - [Intro to Pandas if you’ve taken Data 8 (zip)](https://github.com/DS-100/sp21/raw/main/lec/lec05/pandas_for_data8_students.zip)
 
-A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 5" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Monday, September 14th at 11:59PM** to get credit for it.
+A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
 
 <table>
 <colgroup>
