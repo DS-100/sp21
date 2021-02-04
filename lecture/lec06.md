@@ -10,13 +10,12 @@ Presented by Fernando Perez
 
 Content by Fernando Perez, Josh Hug
 
-
 - [slides](https://docs.google.com/presentation/d/1m_ZbB9dbJkj492TOqYxZBf1XOOfxOA-rLULWKgm8r9I/edit?usp=sharing)
-- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfp21l5oA5Z2xjDhL4dFi753)
-- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec06/)
+- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoIMkkMT2IECqomayb-X4MV)
+- [code](https://github.com/DS-100/sp21/tree/main/lec/lec06) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec06/&branch=main))
 - [code HTML](../../resources/assets/lectures/lec06/lec06.html), [joins code HTML](../../resources/assets/lectures/lec06/lec06_joins.html)
 
-A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 6" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Monday, September 21st at 11:59PM** to get credit for it.
+A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
 
 <table>
 <colgroup>

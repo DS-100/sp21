@@ -18,7 +18,7 @@ days:
     : ''
 - date: 2021-02-04
   events:
-    ? '**Lecture 6**{: .label .label-lecture } Pandas II'
+    ? '**Lecture 6**{: .label .label-lecture } [Pandas II](lecture/lec06)'
     : '[Ch. 6](https://www.textbook.ds100.org/ch/06/pandas_intro.html)'
 - date: 2021-02-05
   events:
