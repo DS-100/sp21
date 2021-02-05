@@ -22,7 +22,7 @@ days:
     : '[Ch. 6](https://www.textbook.ds100.org/ch/06/pandas_intro.html)'
 - date: 2021-02-05
   events:
-    ? '**Lab 3**{: .label .label-lab } Pandas I (due Feb 11)'
+    ? '**Lab 3**{: .label .label-lab } [Pandas](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&urlpath=tree%2Fsp21%2Flab%2Flab03&branch=main) (due Feb 11)'
     : ''
     ? '**Homework 3**{: .label .label-hw } [Food Safety](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&urlpath=tree%2Fsp21%2Fhw%2Fhw3&branch=main) (due Feb 11)'
     : ''
