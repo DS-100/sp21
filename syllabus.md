@@ -165,7 +165,7 @@ Regrade requests will **not** be considered in cases in which:
 | --- | --- | --- |
 | Homeworks | 35% | 11 + 1 bonus, with 2 drops |
 | Labs | 10% | 13, with 3 drops |
-| Section Assignments (small and large) | 20% | 13, with 3 drops |
+| Section Assignments (small and large) | 20% | 12, with 3 drops |
 | Midterm Exam | 15% | |
 | Final | 20% |  |
 
