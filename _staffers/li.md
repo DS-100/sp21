@@ -3,6 +3,7 @@ name: Michelle Li
 role: Tutor
 email: mko357@berkeley.edu
 photo: ../resources/assets/staff_pics/Michelle_Li.png
+pronouns: she/her/hers
 oh: N/A
 ---
 

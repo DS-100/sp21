@@ -3,6 +3,7 @@ name: Priyanka Kargupta
 role: Tutor
 email: pkargupta@berkeley.edu
 photo: ../resources/assets/staff_pics/Priyanka_Kargupta.png
+pronouns: she/her/hers
 oh: N/A
 ---
 

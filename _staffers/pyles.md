@@ -4,6 +4,7 @@ role: Teaching Assistant
 email: cpyles@berkeley.edu
 website: https://chrispyles.io
 photo: ../resources/assets/staff_pics/Chris_Pyles.jpg
+pronouns: he/him/his
 oh: N/A
 ---
 

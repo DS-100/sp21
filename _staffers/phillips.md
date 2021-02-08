@@ -3,6 +3,7 @@ name: Sophie Phillips
 role: Teaching Assistant
 email: rain@berkeley.edu
 photo: ../resources/assets/staff_pics/Sophie_Phillips.jpg
+pronouns: she/her/hers
 oh: N/A
 ---
 

@@ -3,6 +3,7 @@ name: Akshara Majjiga
 role: Teaching Assistant
 email: am123@berkeley.edu
 photo: ../resources/assets/staff_pics/Akshara_Majjiga.jpg
+pronouns: she/her/hers
 oh: N/A
 ---
 

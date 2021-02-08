@@ -3,6 +3,7 @@ name: Ayela Chughtai
 role: Tutor
 email: ayelachughtai@berkeley.edu
 photo: ../resources/assets/staff_pics/Ayela_Chughtai.jpg
+pronouns: she/her/hers
 oh: N/A
 ---
 

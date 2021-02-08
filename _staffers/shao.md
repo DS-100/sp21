@@ -3,6 +3,7 @@ name: Paul Shao
 role: Teaching Assistant
 email: paulshaoyuqiao1@berkeley.edu
 photo: ../resources/assets/staff_pics/Paul_Shao.jpg
+pronouns: he/him/his
 oh: N/A
 ---
 

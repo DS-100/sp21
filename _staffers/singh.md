@@ -3,6 +3,7 @@ name: Japjot Singh
 role: Teaching Assistant
 email: calzoom@berkeley.edu
 photo: ../resources/assets/staff_pics/Japjot_Singh.png
+pronouns: he/him/his
 oh: N/A
 ---
 

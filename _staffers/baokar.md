@@ -3,6 +3,7 @@ name: Parth Baokar
 role: Teaching Assistant
 email: parthbaokar@berkeley.edu
 photo: ../resources/assets/staff_pics/Parth_Baokar.jpg
+pronouns: he/him/his
 oh: N/A
 ---
 

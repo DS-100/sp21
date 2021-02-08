@@ -3,6 +3,7 @@ name: Olivia Qin
 role: Teaching Assistant
 email: oliveqy@berkeley.edu
 photo: ../resources/assets/staff_pics/Olivia_Qin.jpg
+pronouns: she/her/hers
 oh: N/A
 ---
 

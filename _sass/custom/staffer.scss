@@ -16,6 +16,13 @@
   p {
     @extend .staffer-name, .fs-3;
   }
+
+  .staffer-pronouns {
+    @extend .label, .text-grey-dk-100, .bg-grey-lt-200;
+    text-align: center;
+    border-radius: 9px;
+    text-transform: none !important;
+  }
 }
 
 .staffer-image {

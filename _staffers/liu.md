@@ -3,6 +3,7 @@ name: Lucy Liu
 role: Tutor
 email: lucyliu_3212@berkeley.edu
 photo: ../resources/assets/staff_pics/Lucy_Liu.jpg
+pronouns: she/her/hers
 oh: N/A
 ---
 

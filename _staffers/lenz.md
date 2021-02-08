@@ -3,6 +3,7 @@ name: Andrew Lenz
 role: Teaching Assistant
 email: andrew.lenz@berkeley.edu
 photo: ../resources/assets/staff_pics/Andrew_Lenz.jpg
+pronouns: he/him/his
 oh: N/A
 ---
 

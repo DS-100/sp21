@@ -3,6 +3,7 @@ name: Shaviv Hoffman-Lowitz
 role: Teaching Assistant
 email: shaviv@berkeley.edu
 photo: ../resources/assets/staff_pics/Shaviv_Hoffman-Lowitz.jpg
+pronouns: he/him/his
 oh: N/A
 ---
 

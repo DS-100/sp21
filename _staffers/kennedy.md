@@ -4,6 +4,7 @@ role: Tutor
 email: dpk2010@berkeley.edu
 website: https://www.linkedin.com/in/dk-kennedy-815587173/
 photo: ../resources/assets/staff_pics/DK_Kennedy.jpg
+pronouns: they/them/theirs
 oh: N/A
 ---
 

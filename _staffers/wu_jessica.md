@@ -4,6 +4,7 @@ role: Teaching Assistant
 email: jwu19@berkeley.edu
 website: https://www.pixelthoughts.co/
 photo: ../resources/assets/staff_pics/Jessica_Wu.jpg
+pronouns: she/her/hers
 oh: N/A
 ---
 

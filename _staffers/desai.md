@@ -4,6 +4,7 @@ role: Tutor
 email: priyansdesai@berkeley.edu
 website: https://priyansdesai.github.io
 photo: ../resources/assets/staff_pics/Priyans_Desai.jpg
+pronouns: he/him/his
 oh: N/A
 ---
 

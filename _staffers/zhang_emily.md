@@ -3,6 +3,7 @@ name: Emily Zhang
 role: Tutor
 email: ezhang10@berkeley.edu
 photo: ../resources/assets/staff_pics/Emily_Zhang.png
+pronouns: she/her/hers
 oh: N/A
 ---
 

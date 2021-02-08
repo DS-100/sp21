@@ -3,6 +3,7 @@ name: James Susilo
 role: Teaching Assistant
 email: jamesrichardsusilo@berkeley.edu
 photo: ../resources/assets/staff_pics/James_Susilo.jpg
+pronouns: he/him/his
 oh: N/A
 ---
 

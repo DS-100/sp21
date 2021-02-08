@@ -3,6 +3,7 @@ name: Zachary Wu
 role: Teaching Assistant
 email: zacharywu@berkeley.edu
 photo: ../resources/assets/staff_pics/Zachary_Wu.jpg
+pronouns: he/him/his
 oh: N/A
 ---
 

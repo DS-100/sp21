@@ -3,6 +3,7 @@ name: Bella Crouch
 role: Tutor
 email: isabella.crouch@berkeley.edu
 photo: ../resources/assets/staff_pics/Bella_Crouch.jpg
+pronouns: she/her/hers
 oh: N/A
 ---
 

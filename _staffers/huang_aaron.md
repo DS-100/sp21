@@ -3,6 +3,7 @@ name: Aaron Huang
 role: Teaching Assistant
 email: aahuang@berkeley.edu
 photo: ../resources/assets/staff_pics/Aaron_Huang.jpg
+pronouns: he/him/his
 oh: N/A
 ---
 

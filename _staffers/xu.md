@@ -3,6 +3,7 @@ name: Helen Xu
 role: Teaching Assistant
 email: xuzh@berkeley.edu
 photo: ../resources/assets/staff_pics/Helen_Xu.jpg
+pronouns: she/her/hers
 oh: N/A
 ---
 

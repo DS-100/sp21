@@ -4,6 +4,7 @@ role: Teaching Assistant
 email: agnibhoroy@berkeley.edu
 website: https://agnibhoroy.com
 photo: ../resources/assets/staff_pics/Agnibho_Roy.png
+pronouns: he/him/his
 oh: N/A
 ---
 

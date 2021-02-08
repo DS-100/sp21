@@ -3,6 +3,7 @@ name: Yulei Lin
 role: Tutor
 email: yulei_lin@berkeley.edu
 photo: ../resources/assets/staff_pics/Yulei_Lin.jpg
+pronouns: she/her/hers
 oh: N/A
 ---
 

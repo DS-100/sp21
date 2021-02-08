@@ -3,6 +3,7 @@ name: Rahul Jain
 role: Teaching Assistant
 email: rahuljcool26@berkeley.edu
 photo: ../resources/assets/staff_pics/Rahul_Jain.jpg
+pronouns: he/him/his
 oh: N/A
 ---
 

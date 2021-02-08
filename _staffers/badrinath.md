@@ -3,6 +3,7 @@ name: Anirudhan Badrinath
 role: Tutor
 email: abadrinath@berkeley.edu
 photo: ../resources/assets/staff_pics/Anirudhan_Badrinath.png
+pronouns: he/him/his
 oh: N/A
 ---
 

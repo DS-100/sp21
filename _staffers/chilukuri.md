@@ -3,6 +3,7 @@ name: Rohan Chilukuri
 role: Teaching Assistant
 email: rohanchilukuri@berkeley.edu
 photo: ../resources/assets/staff_pics/Rohan_Chilukuri.jpg
+pronouns: he/him/his
 oh: N/A
 ---
 

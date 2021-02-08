@@ -3,6 +3,7 @@ name: Kelly Han
 role: Teaching Assistant
 email: kelly_han@berkeley.edu
 photo: ../resources/assets/staff_pics/Kelly_Han.jpg
+pronouns: she/her/hers
 oh: N/A
 ---
 

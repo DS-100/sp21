@@ -3,6 +3,7 @@ name: Carolyn Duan
 role: Tutor
 email: carolyn.duan@berkeley.edu
 photo: ../resources/assets/staff_pics/Carolyn_Duan.jpg
+pronouns: she/her/hers
 oh: N/A
 ---
 

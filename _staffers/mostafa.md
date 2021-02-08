@@ -3,6 +3,7 @@ name: Rami Mostafa
 role: Teaching Assistant
 email: rami.mostafa@berkeley.edu
 photo: ../resources/assets/staff_pics/Rami_Mostafa.jpg
+pronouns: he/him/his
 oh: N/A
 ---
 

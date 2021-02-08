@@ -3,6 +3,7 @@ name: Felicity Wang
 role: Tutor
 email: felicitywang@berkeley.edu
 photo: ../resources/assets/staff_pics/Felicity_Wang.png
+pronouns: she/her/hers
 oh: N/A
 ---
 

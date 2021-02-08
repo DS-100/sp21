@@ -4,6 +4,7 @@ role: Teaching Assistant
 email: alberttang@berkeley.edu
 website: http://bit.ly/ilovedata100
 photo: ../resources/assets/staff_pics/Albert_Tang.jpg
+pronouns: he/him/his
 oh: N/A
 ---
 
