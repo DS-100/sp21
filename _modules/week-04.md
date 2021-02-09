@@ -10,7 +10,7 @@ days:
   events:
     ? '**Fireside Chat 3**{: .label .label-live }'
     : ''
-    ? '**Lecture 7**{: .label .label-lecture } Data Cleaning and EDA'
+    ? '**Lecture 7**{: .label .label-lecture } [Data Cleaning and EDA](lecture/lec07)'
     : '[Ch. 7](https://www.textbook.ds100.org/ch/07/repr_intro.html), [Ch. 8](https://www.textbook.ds100.org/ch/08/quality_intro.html), [Ch. 9](https://www.textbook.ds100.org/ch/09/eda_intro.html)'
 - date: 2021-02-10
   events:

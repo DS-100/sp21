@@ -11,12 +11,12 @@ Presented by Anthony D. Joseph
 Content by Anthony D. Joseph, Joseph Gonzalez, Deborah Nolan, Joseph Hellerstein
 
 - [slides](https://docs.google.com/presentation/d/1_bjyzr7Wd4-jJurzSKoYKuNk0JJi_XI8o-xkMKN3qf4/edit?usp=sharing)
-- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrC8HnYAXhuJ3qkLT-wU0Oy)
-- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec07/)
+- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfr0cSQwchFj1HM8HtNv3jdg)
+- [code](https://github.com/DS-100/sp21/tree/main/lec/lec07) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec07/&branch=main))
 - [code HTML](../../resources/assets/lectures/lec07/lec07.html)
 - [(bonus) Joe Hellerstein's primer on data models](https://drive.google.com/file/d/1nLftW2PaJNot-J9zIgES4HchXTTrB_63/view?usp=sharing)
 
-A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 7" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Monday, September 21st at 11:59PM** to get credit for it.
+A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
 
 <table>
 <colgroup>
@@ -32,6 +32,11 @@ A random one of the following Google Forms will give you an alphanumeric code on
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>7.0</strong> <br>Announcements.</td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/YQJqBWqPHRk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td></td>
+</tr>
 <tr>
 <td><strong>7.1</strong> <br>Exploratory data analysis and its position in the data science lifecycle. The relationship between data cleaning and EDA.</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/aT4rAFtgTQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
