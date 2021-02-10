@@ -8,7 +8,7 @@ days:
     : ''
 - date: 2021-02-09
   events:
-    ? '**Fireside Chat 3**{: .label .label-live }'
+    ? '**Fireside Chat 3**{: .label .label-live } [DataFrames and Data Pipelines](resources/assets/fireside_chats/fc03/slides.pdf) ([Recording](https://kaltura.berkeley.edu/media/Data+100+-+Lecture/1_zzetq5j9))'
     : ''
     ? '**Lecture 7**{: .label .label-lecture } [Data Cleaning and EDA](lecture/lec07)'
     : '[Ch. 7](https://www.textbook.ds100.org/ch/07/repr_intro.html), [Ch. 8](https://www.textbook.ds100.org/ch/08/quality_intro.html), [Ch. 9](https://www.textbook.ds100.org/ch/09/eda_intro.html)'
