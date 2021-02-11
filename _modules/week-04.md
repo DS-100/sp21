@@ -18,7 +18,7 @@ days:
     : ''
 - date: 2021-02-11
   events:
-    ? '**Lecture 8**{: .label .label-lecture } Regular Expressions'
+    ? '**Lecture 8**{: .label .label-lecture } [Regular Expressions](lecture/lec08)'
     : '[Ch. 12](https://www.textbook.ds100.org/ch/12/text_intro.html)'
 - date: 2021-02-12
   events:

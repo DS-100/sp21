@@ -11,11 +11,11 @@ Presented by Anthony D. Joseph
 Content by Anthony D. Joseph, Josh Hug
 
 - [slides](https://docs.google.com/presentation/d/1gXWJkPvIGwaBJ5iC6Iu6rtrQHPIYLpXOUhQsCkAVo_A/edit?usp=sharing)
-- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfo2PsTbcVghss7Aok0cM72u)
-- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec08/)
+- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqMRKKXK24Nbui6LRyT4CTC)
+- [code](https://github.com/DS-100/sp21/tree/main/lec/lec08) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec08/&branch=main))
 - [code HTML](../../resources/assets/lectures/lec08/lec08.html)
 
-A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 8" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Monday, September 28th at 11:59PM** to get credit for it.
+A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
 
 <table>
 <colgroup>
