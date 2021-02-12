@@ -24,7 +24,7 @@ days:
   events:
     ? '**Lab 4**{: .label .label-lab } [Data Cleaning and EDA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&urlpath=tree%2Fsp21%2Flab%2Flab04&branch=main) (due Feb 18)'
     : ''
-    ? '**Homework 4**{: .label .label-hw } Trump Tweets (due Feb 18)'
+    ? '**Homework 4**{: .label .label-hw } [Trump Tweets](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&urlpath=tree%2Fsp21%2Fhw%2Fhw4&branch=main) (due Feb 18)'
     : ''
 
 ---
