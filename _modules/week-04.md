@@ -22,7 +22,7 @@ days:
     : '[Ch. 12](https://www.textbook.ds100.org/ch/12/text_intro.html)'
 - date: 2021-02-12
   events:
-    ? '**Lab 4**{: .label .label-lab } Data Cleaning and EDA (due Feb 18)'
+    ? '**Lab 4**{: .label .label-lab } [Data Cleaning and EDA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&urlpath=tree%2Fsp21%2Flab%2Flab04&branch=main) (due Feb 18)'
     : ''
     ? '**Homework 4**{: .label .label-hw } Trump Tweets (due Feb 18)'
     : ''
