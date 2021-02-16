@@ -10,7 +10,7 @@ days:
   events:
     ? '**Fireside Chat 4**{: .label .label-live }'
     : ''
-    ? '**Lecture 9**{: .label .label-lecture } Visualization I'
+    ? '**Lecture 9**{: .label .label-lecture } [Visualization I](lecture/lec09)'
     : '[Ch. 10.1-10.3](https://www.textbook.ds100.org/ch/10/viz_quantitative.html)'
 - date: 2021-02-17
   events:
