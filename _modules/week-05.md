@@ -18,7 +18,7 @@ days:
     : ''
 - date: 2021-02-18
   events:
-    ? '**Lecture 10**{: .label .label-lecture } Visualization II'
+    ? '**Lecture 10**{: .label .label-lecture } [Visualization II](lecture/lec10)'
     : '[Ch. 10.4-10.6](https://www.textbook.ds100.org/ch/10/viz_principles.html)'
 - date: 2021-02-19
   events:

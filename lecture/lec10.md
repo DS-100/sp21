@@ -11,17 +11,18 @@ Presented by Fernando Perez
 Content by Fernando Perez, Suraj Rampure, Ani Adhikari, Sam Lau, Yifan Wu, Deborah Nolan
 
 - [slides](https://docs.google.com/presentation/d/12sQF_kCUQnQzZgphE9jnWb8uQydh3ZZa9H2moflcf-U/edit?usp=sharing)
-- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfr_w-AwDTqxgXvTkJKSQq24)
-- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec10/)
+- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqg1Or0146dak_SSMprFVwz)
+- [code](https://github.com/DS-100/sp21/tree/main/lec/lec10) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec10/&branch=main))
 - [code HTML](../../resources/assets/lectures/lec10/lec10.html)
 
 Extra reading on colormaps:
+
 - [matplotlib colormaps (BIDS)](https://bids.github.io/colormap/)
 - [How the Rainbow Color Map Misleads](https://eagereyes.org/basics/rainbow-color-map)
 - [When to use Sequential and Diverging Palettes](https://everydayanalytics.ca/2017/03/when-to-use-sequential-and-diverging-palettes.html)
 - [Color Use Guidelines](https://web.natur.cuni.cz/~langhamr/lectures/vtfg1/mapinfo_2/barvy/colors.html)
 
-A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 10" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Monday, October 5th at 11:59PM** to get credit for it.
+A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
 
 <table>
 <colgroup>
