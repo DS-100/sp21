@@ -10,7 +10,7 @@ Presented by Andrew Bray
 
 Content by Fernando Perez, Suraj Rampure, Ani Adhikari, Deborah Nolan, Joseph Gonzalez
 
-- [slides](https://docs.google.com/presentation/d/1fYsAhfvItcj5gL5ZHdZgV2gC27ui34-8-y5JG91ldl0/edit?usp=sharing)
+- [slides](https://drive.google.com/file/d/10zS-QYJxhkxakSJYWSsUZ7GOuWvDWxgj/view?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpCUvSQoWbiu-oMMSR_4UAH)
 - [code](https://github.com/DS-100/sp21/tree/main/lec/lec11) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec11/&branch=main))
 - [code HTML](../../resources/assets/lectures/lec11/lec11.html)
