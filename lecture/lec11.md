@@ -43,7 +43,7 @@ A reminder – the right column of the table below contains _Quick Checks_. Thes
 </tr>
 <tr>
 <td><strong>11.2</strong> <br>Choosing the constant model. Formalizing the notion of a parameter.</td>
-<td><iframe width="300" height="300" height src="https://youtube.com/kW0xe-C0jFk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/kW0xe-C0jFk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td></td>
 </tr>
 <tr>
