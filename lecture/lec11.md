@@ -11,11 +11,11 @@ Presented by Fernando Perez and Suraj Rampure
 Content by Fernando Perez, Suraj Rampure, Ani Adhikari, Deborah Nolan, Joseph Gonzalez
 
 - [slides](https://docs.google.com/presentation/d/1fYsAhfvItcj5gL5ZHdZgV2gC27ui34-8-y5JG91ldl0/edit?usp=sharing)
-- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfo4S5Z_uoLo5HDd2gx_xEq6)
-- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec11/)
+- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpCUvSQoWbiu-oMMSR_4UAH)
+- [code](https://github.com/DS-100/sp21/tree/main/lec/lec11) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec11/&branch=main))
 - [code HTML](../../resources/assets/lectures/lec11/lec11.html)
 
-A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 11" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Monday, October 5th at 11:59PM** to get credit for it.
+A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
 
 <table>
 <colgroup>
@@ -31,6 +31,11 @@ A random one of the following Google Forms will give you an alphanumeric code on
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>11.0</strong> <br>Announcements.</td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/vAEsdkfKDcw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td></td>
+</tr>
 <tr>
 <td><strong>11.1</strong> <br>Motivating examples of models.</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/o_HGiWy8A-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>

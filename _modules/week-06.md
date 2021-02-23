@@ -10,7 +10,7 @@ days:
   events:
     ? '**Fireside Chat 5**{: .label .label-live }'
     : ''
-    ? '**Lecture 11**{: .label .label-lecture } Modeling'
+    ? '**Lecture 11**{: .label .label-lecture } [Modeling](lecture/lec11)'
     : '[Ch. 3](https://www.textbook.ds100.org/ch/3/modeling_intro.html)'
 - date: 2021-02-24
   events:
