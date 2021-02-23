@@ -38,12 +38,12 @@ A reminder – the right column of the table below contains _Quick Checks_. Thes
 </tr>
 <tr>
 <td><strong>11.1</strong> <br>Motivating examples of models.</td>
-<td><iframe width="300" height="300" height src="https://youtube.com/embed/o_HGiWy8A-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/wqkdCgh_1mE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdD4YlZpNkH6oGPJaPlZTbj3l0UeBhNqYyBT7SqIdist_MSDg/viewform" target="\_blank">11.1</a></td>
 </tr>
 <tr>
 <td><strong>11.2</strong> <br>Defining the constant model. Formalizing the notion of a parameter.</td>
-<td><iframe width="300" height="300" height src="https://youtube.com/embed/buq9H1xOavU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/kW0xe-C0jF" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScPtwJmGcQU1rNO8ZMiTNSSIg6apGc0YhwVQYRHydwCe1gK1Q/viewform" target="\_blank">11.2</a></td>
 </tr>
 <tr>
