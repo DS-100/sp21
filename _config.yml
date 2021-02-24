@@ -16,7 +16,6 @@
 title: Data 100
 description: Principles and Techniques of Data Science
 author: Joseph Gonzalez and Andrew Bray
-email: jegonzal@berkeley.edu
 baseurl: '/sp21' # the subpath of your site, e.g. /blog
 url: 'https://ds100.org' # the base hostname & protocol for your site, e.g. http://example.com
 
