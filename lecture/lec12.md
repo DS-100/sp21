@@ -10,7 +10,8 @@ Presented by Andrew Bray and Suraj Rampure
 
 Content by Andrew Bray, Suraj Rampure, and Ani Adhikari
 
-- [slides](https://docs.google.com/presentation/d/1rHflVaF3aTMD7h96Bv0cwTkbrCTo5xNVq_dfOL7dpCE/edit?usp=sharing)
+- [12.1 slides](../../resources/assets/lectures/lec12/lec-12-1.html) 
+- [12.2-12.6 slides](https://docs.google.com/presentation/d/1rHflVaF3aTMD7h96Bv0cwTkbrCTo5xNVq_dfOL7dpCE/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrDgGa4I0l1ciw39lmYpmGg)
 - [code](https://github.com/DS-100/sp21/tree/main/lec/lec12) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec12/&branch=main))
 - [code HTML](../../resources/assets/lectures/lec12/lec12.html)
