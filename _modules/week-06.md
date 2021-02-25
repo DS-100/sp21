@@ -18,7 +18,7 @@ days:
     : ''
 - date: 2021-02-25
   events:
-    ? '**Lecture 12**{: .label .label-lecture } Simple Linear Regression'
+    ? '**Lecture 12**{: .label .label-lecture } [Simple Linear Regression](lecture/lec12)'
     : '[Ch. 14.1-14.3](https://www.textbook.ds100.org/ch/14/linear_tips.html)'
 - date: 2021-02-26
   events:
