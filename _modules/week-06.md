@@ -22,7 +22,7 @@ days:
     : '[Ch. 14.1-14.3](https://www.textbook.ds100.org/ch/14/linear_tips.html)'
 - date: 2021-02-26
   events:
-    ? '**Lab 6**{: .label .label-lab } Modeling, Summary Statistics, and Loss Functions (due Mar 4)'
+    ? '**Lab 6**{: .label .label-lab } [Modeling, Summary Statistics, and Loss Functions](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&urlpath=tree%2Fsp21%2Flab%2Flab06&branch=main) (due Mar 4)'
     : ''
     ? '**Homework 6**{: .label .label-hw } Regression (due Mar 11)'
     : ''
