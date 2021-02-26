@@ -24,7 +24,7 @@ days:
   events:
     ? '**Lab 6**{: .label .label-lab } Modeling, Summary Statistics, and Loss Functions (due Mar 4)'
     : ''
-    ? '**Homework 6**{: .label .label-hw } Regression (due Mar 4)'
+    ? '**Homework 6**{: .label .label-hw } Regression (due Mar 11)'
     : ''
 
 ---
