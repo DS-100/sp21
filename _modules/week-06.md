@@ -24,7 +24,7 @@ days:
   events:
     ? '**Lab 6**{: .label .label-lab } [Modeling, Summary Statistics, and Loss Functions](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&urlpath=tree%2Fsp21%2Flab%2Flab06&branch=main) (due Mar 4)'
     : ''
-    ? '**Homework 6**{: .label .label-hw } Regression (due Mar 11)'
+    ? '**Homework 6**{: .label .label-hw } [Regression](resources/assets/hw/hw6.pdf) (due Mar 11)'
     : ''
 
 ---
