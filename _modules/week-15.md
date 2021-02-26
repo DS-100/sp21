@@ -24,7 +24,7 @@ days:
   events:
     ? '**Lab 14**{: .label .label-lab } Using the Bootstrap for Estimation (due May 6)'
     : ''
-    ? '**Homework 12**{: .label .label-hw } Taxis (due May 6)'
+    ? '**Homework 12**{: .label .label-hw } Bonus Assignment (due May 6)'
     : ''
 
 ---
