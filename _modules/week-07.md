@@ -4,7 +4,7 @@ weekNumber: 7
 days:
 - date: 2021-03-01
   events:
-    ? '**Discussion 2**{: .label .label-disc }'
+    ? '**Discussion 2**{: .label .label-disc } [Modeling and Regex](https://drive.google.com/file/d/1toI1kNNwBvqMxnoDR8LwI_5RoB3cTvTK/view?usp=sharing)'
     : ''
 - date: 2021-03-02
   events:
