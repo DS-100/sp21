@@ -30,7 +30,6 @@ A reminder – the right column of the table below contains _Quick Checks_. Thes
 </tr>
 </thead>
 <tbody>
-<tr>
 
 <tr>
 <td><strong>13.0</strong> <br>Announcements</td>
