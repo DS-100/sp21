@@ -6,16 +6,15 @@ nav_exclude: true
 
 # Lecture 13 – Ordinary Least Squares
 
-Presented by Anthony D. Joseph and Suraj Rampure
-
-Content by Suraj Rampure, Ani Adhikari, Deb Nolan, Joseph Gonzalez
+Content by Joey Gonzalez, Andrew Bray, Suraj Rampure, Ani Adhikari, Deb Nolan
 
 - [slides](https://docs.google.com/presentation/d/15olJS1Yuk22spzrNx4It6-eLm8gkZM4pFKKOWhKXBUI/edit?usp=sharing)
-- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfp1VeHhKXAaXWGmAB8EeFCy)
+- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpjyZ2FD6Yn9vbQL2sC_W7X)
 - [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec13/)
 - [code HTML](../../resources/assets/lectures/lec13/lec13.html)
+- [bonus plotly video](https://youtu.be/nTS4-2NbHw8)
 
-The Quick Check for this lecture is due **Monday, October 12th at 11:59PM**. In order to get the Gradescope submission code, you will have to follow the instructions at the end of one of these Google Forms; the instructions for this lecture are more involved as we will have you access the exam platform that we are using for the Midterm exam next week.
+A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
 
 <table>
 <colgroup>
@@ -33,8 +32,8 @@ The Quick Check for this lecture is due **Monday, October 12th at 11:59PM**. In 
 <tbody>
 <tr>
 <td><strong>13.1</strong> <br>A quick recap of the modeling process, and a roadmap for lecture.</td>
-<td><iframe width="300" height="300" height src="https://youtube.com/embed/HS8W2dl5KXo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeam3qv5QlC0ZTsxiqeLF2AX2nWAe-9mLcJih8tWDfehmlxdQ/viewform" target="\_blank">13.1</a></td>
+<td><iframe width="300" height="300" height src="https://www.youtube.com/embed/BzjfBxepT7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td></td>
 </tr>
 <tr>
 <td><strong>13.2</strong> <br>Defining the multiple linear regression model using linear algebra (dot products and matrix multiplication). Introducing the idea of a design matrix.</td>
@@ -61,3 +60,9 @@ The Quick Check for this lecture is due **Monday, October 12th at 11:59PM**. In 
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/9e_w8up-8Yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeYSzuiZvqh6X8vyVB2edDWUMrzpSRHXMtx0ctsCgg3MAbL0Q/viewform" target="\_blank">13.6</a></td>
 </tr>
+<td><strong>13.7</strong> <br>A case study demonstrating the descriptive capacity of a MLR model.</td>
+<td><iframe width="300" height="300" height src="https://www.youtube.com/embed/fvdgLgAl4_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td></td>
+</tr>
+
+
