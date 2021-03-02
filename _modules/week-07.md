@@ -10,7 +10,7 @@ days:
   events:
     ? '**Fireside Chat 6**{: .label .label-live }'
     : ''
-    ? '**Lecture 13**{: .label .label-lecture } Ordinary Least Squares'
+    ? '**Lecture 13**{: .label .label-lecture } [Ordinary Least Squares](lecture/lec13)'
     : '[Ch. 14.4](https://www.textbook.ds100.org/ch/14/linear_projection.html)'
 - date: 2021-03-03
   events:
