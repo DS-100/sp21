@@ -8,7 +8,7 @@ days:
     : ''
 - date: 2021-03-02
   events:
-    ? '**Fireside Chat 6**{: .label .label-live } ([code](https://github.com/DS-100/sp21/tree/main/lec/lec13/Fireside.ipynb)) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec13/&branch=main))([code HTML](resources/assets/lectures/lec13/Fireside.html))'
+    ? '**Fireside Chat 6**{: .label .label-live } [code](https://github.com/DS-100/sp21/tree/main/lec/lec13/Fireside.ipynb) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec13/&branch=main), [Interactive HTML](resources/assets/lectures/lec13/Fireside.html))'
     : ''
     ? '**Lecture 13**{: .label .label-lecture } [Ordinary Least Squares](lecture/lec13)'
     : '[Ch. 14.4](https://www.textbook.ds100.org/ch/14/linear_projection.html)'
