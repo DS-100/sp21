@@ -32,7 +32,7 @@ A reminder – the right column of the table below contains _Quick Checks_. Thes
 <tbody>
 <tr>
 <td><strong>13.0</strong> <br>Announcements</td>
-<td><iframe width="300" height="300" height src="https://youtube.com/embed/Ec-PZdKeroE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://www.youtube.com/embed/KK-uhcVMoLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td></td>
 </tr>
 <tr>
