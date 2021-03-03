@@ -2,6 +2,7 @@
 name: James Susilo
 role: Teaching Assistant
 email: jamesrichardsusilo@berkeley.edu
+website: https://drive.google.com/drive/folders/1EJdyx2l8uSYhwFPT4zcYh18nRiAatlTR?usp=sharing
 photo: ../resources/assets/staff_pics/James_Susilo.jpg
 pronouns: he/him/his
 oh: N/A
