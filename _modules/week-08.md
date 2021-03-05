@@ -4,7 +4,7 @@ weekNumber: 8
 days:
 - date: 2021-03-08
   events:
-    ? ''
+    ? 'N/A (Midterm Week)'
     : ''
 - date: 2021-03-09
   events:
