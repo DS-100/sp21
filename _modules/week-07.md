@@ -22,7 +22,7 @@ days:
     : ''
 - date: 2021-03-05
   events:
-    ? '**Lab 7**{: .label .label-lab } Simple Linear Regression (due Mar 11)'
+    ? '**Lab 7**{: .label .label-lab } [Simple Linear Regression](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&urlpath=tree%2Fsp21%2Flab%2Flab07&branch=main) (due Mar 11)'
     : ''
 
 ---
