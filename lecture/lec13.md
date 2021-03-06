@@ -37,7 +37,7 @@ A reminder – the right column of the table below contains _Quick Checks_. Thes
 </tr>
 <tr>
 <td><strong>13.1</strong> <br>A quick recap of the modeling process, and a roadmap for lecture.</td>
-<td><iframe width="300" height="300" height src="https://www.youtube.com/embed/BzjfBxepT7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/3Kj4FLOvDac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td></td>
 </tr>
 <tr>
