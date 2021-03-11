@@ -18,7 +18,7 @@ days:
     : ''
 - date: 2021-03-11
   events:
-    ? '**Lecture 14**{: .label .label-lecture } [Feature Engineering](lecture/lec13)'
+    ? '**Lecture 14**{: .label .label-lecture } [Feature Engineering](lecture/lec14)'
     : '[Ch. 19](https://www.textbook.ds100.org/ch/19/feature_engineering.html)'
 - date: 2021-03-12
   events:
