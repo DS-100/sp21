@@ -9,7 +9,7 @@ nav_exclude: true
 Presented by Joseph Gonzalez
 
 Content by Joseph Gonzalez, John DeNero, Josh Hug
-
+  
 - [slides](https://docs.google.com/presentation/d/1ibhnzNFghw85-RB6VWWEpQTJ9OMY6ut3F3k-Zytz29s/edit#slide=id.p1)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrZ_xy3U3woEpApcgYZhngx)
 - [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lecture/lec14/)
