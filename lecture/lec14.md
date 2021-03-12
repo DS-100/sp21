@@ -12,7 +12,7 @@ Content by Joseph Gonzalez, John DeNero, Josh Hug
   
 - [slides](https://docs.google.com/presentation/d/1ibhnzNFghw85-RB6VWWEpQTJ9OMY6ut3F3k-Zytz29s/edit#slide=id.p1)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrZ_xy3U3woEpApcgYZhngx)
-- [code](https://data100.datahub.berkeley.edu/user/cpyles/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&subPath=lec%2Flec14%2F&branch=main)
+- [code](https://data100.datahub.berkeley.edu/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&subPath=lec%2Flec14%2F&branch=main)
 - code HTML: [Fitting Linear Models](../../resources/assets/lectures/lec14/01-fitting-linear-models.html), [Modeling Non-linear Relationships](../../resources/assets/lectures/lec14/02-non-linear-features.html), 
 [Missing Values, Categorical Features, and Text](../../resources/assets/lectures/lec14/03-missing-values-and-categorical-features.html)
 
