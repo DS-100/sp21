@@ -24,5 +24,7 @@ days:
   events:
     ? '**Lab 8**{: .label .label-lab } Multiple Linear Regression and Feature Engineering (due Mar 18)'
     : ''
+    ? '**Homework 7**{: .label .label-hw } [Housing](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/hw/hw7&branch=main) (due Mar 18)'
+    : ''
 
 ---

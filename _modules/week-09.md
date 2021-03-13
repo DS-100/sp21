@@ -24,7 +24,5 @@ days:
   events:
     ? '**Lab 9**{: .label .label-lab } Feature Engineering and Cross-Validation (due Mar 25)'
     : ''
-    ? '**Homework 7**{: .label .label-hw } Housing (due Mar 25)'
-    : ''
 
 ---
