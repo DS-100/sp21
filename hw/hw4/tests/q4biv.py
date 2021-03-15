@@ -1,0 +1,12 @@
+test = {   'name': 'q4biv',
+    'points': 2,
+    'suites': [   {   'cases': [   {'code': '>>> re.search(weblink_re, "a link to https://www.google.com!").group(0) == "https://www.google.com"\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> re.search(weblink_re, "a link to http://www.google.com!").group(0) == "http://www.google.com"\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> re.search(weblink_re, "a link to http://google.com!") is None\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': '>>> re.search(weblink_re, "a link to http://www.ds100.org/syllabus!").group(0) == \'http://www.ds100.org/syllabus\'\nTrue',
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
