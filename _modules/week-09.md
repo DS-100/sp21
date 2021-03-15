@@ -4,7 +4,7 @@ weekNumber: 9
 days:
 - date: 2021-03-15
   events:
-    ? '**Discussion 3**{: .label .label-disc }'
+    ? '**Discussion 3**{: .label .label-disc } [Feature Engineering and OLS](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/disc/disc03&branch=main)'
     : ''
 - date: 2021-03-16
   events:
