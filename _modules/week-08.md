@@ -26,5 +26,7 @@ days:
     : ''
     ? '**Homework 7**{: .label .label-hw } [Housing](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/hw/hw7&branch=main) (due Mar 28)'
     : ''
+    ? '**(Optional) Homework 7 Contest**{: .label .label-disc } [Build Your Own Model](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/hw/hw7_contest&branch=main)'
+    : ''
 
 ---
