@@ -39,7 +39,7 @@ Presented by Joey Gonzalez, Andrew Bray, Fernando Perez, and Ani Adhikari
 <tr>
 <td><strong>15.05</strong> <br> A quick Introduction to Overfitting and Generalization. </td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/14YGCOq37yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td></td>
+<td>Coming soon!</td>
 </tr>
 <tr>
 <td><strong>15.1</strong> <br> Variance of random variables. Walking through an alternate calculation of variance. Variance of a linear transformation. </td>
