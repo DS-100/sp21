@@ -39,7 +39,7 @@ Presented by Joey Gonzalez, Andrew Bray, Fernando Perez, and Ani Adhikari
 <tr>
 <td><strong>15.1</strong> <br> A quick Introduction to Overfitting and Generalization. </td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/14YGCOq37yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td>Coming soon!</td>
+<td>Coming soon</td>
 </tr>
 <tr>
 <td><strong>15.2</strong> <br> Variance of random variables. Walking through an alternate calculation of variance. Variance of a linear transformation. </td>
@@ -80,7 +80,22 @@ Presented by Joey Gonzalez, Andrew Bray, Fernando Perez, and Ani Adhikari
 </tr>
  -->
 <tr>
-<td><strong>15.4</strong> <br>Decomposing model risk into the sum of observation variance, model variance, and the square of bias.</td>
-<td><iframe width="300" height="500" height src="https://youtube.com/embed/DEYCRlXvwg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><strong>15.4</strong> <br>Components of the Prediction Error.</td>
+<td><iframe width="300" height="500" height src="https://youtube.com/embed/sktUKDB4Zfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSesORFx-WhNSODExsb5k_32E0AOYEVqxiOcrarQjyKE75Xyrg/viewform" target="\_blank">15.4</a></td>
 </tr>
+
+<tr>
+<td><strong>15.5</strong> <br>Visualizing Bias and Variance.</td>
+<td><iframe width="300" height="500" height src="https://youtube.com/embed/lKMjFxdMhTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td>Coming Soon</td>
+</tr>
+
+
+<tr>
+<td><strong>15.6</strong> <br>Model Complexity and the Bias Variance Tradeoff.</td>
+<td><iframe width="300" height="500" height src="https://youtube.com/embed/a1zMueoMVpw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td>Coming Soon</td>
+</tr>
+
+
