@@ -10,7 +10,7 @@ days:
   events:
     ? '**Fireside Chat 8**{: .label .label-live }'
     : ''
-    ? '**Lecture 15**{: .label .label-lecture } Bias and Variance'
+    ? '**Lecture 15**{: .label .label-lecture } [Bias and Variance](lecture/lec15)'
     : '[Ch. 15.3](https://www.textbook.ds100.org/ch/15/prob_risk.html), [20.1-20.2](https:/www.textbook.ds100.org/ch/20/bias_risk.html)'
 - date: 2021-03-17
   events:
