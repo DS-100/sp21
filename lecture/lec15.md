@@ -10,6 +10,7 @@ Presented by Joey Gonzalez, Andrew Bray, Fernando Perez, and Ani Adhikari
 
 
 - [slides](https://docs.google.com/presentation/d/15LDeDKNxpIa9j0_dHZr1F5AzrbVEUoM5OWOxgqYUKM0/edit?usp=sharing)
+- 15.5 slides ([1](../../resources/assets/lectures/lec15/decomposing-mse-wide.html), [2](../../resources/assets/lectures/lec15/decomposing-mse-square.html))
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpsM-s0xEnuVScBP3i_9bMs)
 - [Introduction to Overfitting](../../resources/assets/lectures/lec15/IntroductionToOverfitting.html)
 - [Bias-Variance decomposition derivation](../../resources/assets/lectures/lec15/lec15-bias-variance-derivation.html) ([raw](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lecture/lec15/))
