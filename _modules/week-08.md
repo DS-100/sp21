@@ -24,7 +24,9 @@ days:
   events:
     ? '**Lab 8**{: .label .label-lab } [Multiple Linear Regression and Feature Engineering](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&urlpath=tree%2Fsp21%2Flab%2Flab08&branch=main) (due Mar 18)'
     : ''
-    ? '**Homework 7**{: .label .label-hw } [Housing](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/hw/hw7&branch=main) (due Mar 18)'
+    ? '**Homework 7**{: .label .label-hw } [Housing](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/hw/hw7&branch=main) (due Mar 28)'
+    : ''
+    ? '**(Optional) Homework 7 Contest**{: .label .label-disc } [Build Your Own Model](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/hw/hw7_contest&branch=main) (due April 4)'
     : ''
 
 ---

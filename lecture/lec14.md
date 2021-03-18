@@ -15,6 +15,7 @@ Content by Joseph Gonzalez, John DeNero, Josh Hug
 - [code](https://data100.datahub.berkeley.edu/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&subPath=lec%2Flec14%2F&branch=main)
 - code HTML: [Fitting Linear Models](../../resources/assets/lectures/lec14/01-fitting-linear-models.html), [Modeling Non-linear Relationships](../../resources/assets/lectures/lec14/02-non-linear-features.html), 
 [Missing Values, Categorical Features, and Text](../../resources/assets/lectures/lec14/03-missing-values-and-categorical-features.html)
+- Quick Checks: [1](https://docs.google.com/forms/d/e/1FAIpQLSejnJAKdxySVRwnQAKUo2GkveqhEl2dkA7O3XSQ8831w4psVA/viewform), [2](https://docs.google.com/forms/d/e/1FAIpQLScZNUjkD5kVrFsZE50zGLY6pawRP-ZYzZZj-aLXOBA472CVhw/viewform), [3](https://docs.google.com/forms/d/e/1FAIpQLSf5tE_6RRpRJjG172b7Eor5x8hAVPKlhfgb9F8Ehs0Vez2HzA/viewform), [4](https://docs.google.com/forms/d/e/1FAIpQLSdGaAyC1P2PrUiG6nNchFmmyXQQwI5g5JXlJpOm5E1-JIPfZw/viewform), [5](https://docs.google.com/forms/d/e/1FAIpQLSfLfIwIHlX9wEQoOmmKwZJEE88fLm51_VLzsi3yQONDazyVcA/viewform), [6](https://docs.google.com/forms/d/e/1FAIpQLSdvfcAPfpTbVK-96CqcAZFDyMKMBKdS7XT7vfeO9SvQDfHChw/viewform), [7](https://docs.google.com/forms/d/e/1FAIpQLSeRp1nJX_Tea_hqBT3sgC-UnnTGiXuFkcrXMgs4nC1c9H_Phw/viewform) (These are presented here because of content changes since last semester, but the questions should all be answerable based on the updated lecture.)
 
 
 
