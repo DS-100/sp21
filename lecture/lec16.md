@@ -12,7 +12,7 @@ Content by Joseph Gonzalez, Suraj Rampure, Paul Shao
 
 - [slides](https://docs.google.com/presentation/d/1MaQJxLvnb7oQZAWaEbBL_1ebNNvPiZHgHPB_QnWtVz8/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfov87Pclq27yt7qrgzJigz3)
-- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lec/lec16/)
+- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec16/&branch=main)
 - code HTML: [Part 1](../../resources/assets/lectures/lec16/lec16-part1-cv.html), [Part 2](../../resources/assets/lectures/lec16/lec16-part2-regularization.html)
 
 **Important:** Read this before proceeding with the lectures, as it details what materials you should focus on. (This is also largely recapped in Video 16.1.).
