@@ -26,11 +26,11 @@ Sections 16.5 and 16.6 discuss regularization.
 - 16.5 discusses why we need to regularize, and how penalties on the norm of our parameter vector accomplish this goal.
 - 16.6 explicitly lists the optimal model parameter when using the L2 penalty on our linear model (called "ridge regression").
 
+
 There are also three **supplementary** videos accompanying this lecture. They don't introduce any new material, but may still be helpful for your understanding. They are listed as supplementary and not required since the runtime of this lecture is already quite long. They do not have accompanying Quick Checks for this reason.
 - 16.7 and 16.8 walk through implementing ridge and LASSO regression in a notebook. These videos are helpful in explaining how regularization and cross-validation are used in practice. These videos again use `Pipeline`, which is not in scope. Code is in "Part 2".
 - 16.9 is another **supplementary** video, created by Paul Shao (a TA for Data 100 in Spring 2020). It gives a great high-level overview of both the bias-variance tradeoff and regularization.
 
-The Quick Check for this lecture is due **Monday, November 2nd at 11:59PM.** A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 16" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check.
 
 
 <table>
