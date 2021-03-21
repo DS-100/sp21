@@ -22,7 +22,7 @@ days:
     : '[Ch. 21](https://www.textbook.ds100.org/ch/21/reg_intro.html), [Ch. 20.3](https://www.textbook.ds100.org/ch/20/bias_cv.html)'
 - date: 2021-03-19
   events:
-    ? '**Lab 9**{: .label .label-lab } Feature Engineering and Cross-Validation (due Mar 25)'
+    ? '**Lab 9**{: .label .label-lab } Feature Engineering and Cross-Validation (due Apr 1)'
     : ''
 
 ---
