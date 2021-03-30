@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 17 – Modeling in Context: Fairness in Housing Appraisal
+title: 'Lecture 17 – Modeling in Context: Fairness in Housing Appraisal'
 nav_exclude: true
 ---
 
