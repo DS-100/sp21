@@ -24,7 +24,7 @@ days:
   events:
     ? '**Lab 10**{: .label .label-lab } Logistic Regression (due Apr 8)'
     : ''
-    ? '**Homework 8**{: .label .label-hw } Gradient Descent and Logistic Regression (due Apr 8)'
+    ? '**Homework 8**{: .label .label-hw } Gradient Descent and HCE (due Apr 8)'
     : ''
 
 ---

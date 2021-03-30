@@ -10,7 +10,7 @@ days:
   events:
     ? '**Fireside Chat 10**{: .label .label-live }'
     : ''
-    ? '**Lecture 19**{: .label .label-lecture } Logistic Regression II, Classification'
+    ? '**Lecture 19**{: .label .label-lecture } Logistic Regression I'
     : '[Ch. 23.4-23.7](https://www.textbook.ds100.org/ch/23/classification_log_reg.html)'
 - date: 2021-04-07
   events:
@@ -18,7 +18,7 @@ days:
     : ''
 - date: 2021-04-08
   events:
-    ? '**Lecture 20**{: .label .label-lecture } Decision Trees'
+    ? '**Lecture 20**{: .label .label-lecture } Logistic Regression II, Classification'
     : '[Ch. 26](https://www.textbook.ds100.org/ch/26/dtrees_intro.html)'
 - date: 2021-04-09
   events:

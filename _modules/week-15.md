@@ -10,7 +10,7 @@ days:
   events:
     ? '**Fireside Chat 13**{: .label .label-live }'
     : ''
-    ? '**Lecture 25**{: .label .label-lecture } TBD'
+    ? '**Lecture 25**{: .label .label-lecture } Big Data'
     : ''
 - date: 2021-04-28
   events:
