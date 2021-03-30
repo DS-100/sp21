@@ -10,7 +10,7 @@ days:
   events:
     ? '**Fireside Chat 9**{: .label .label-live }'
     : ''
-    ? '**Lecture 17**{: .label .label-lecture } [Modeling in Context: Fairness in Housing Appraisal]](lecture/lec17)'
+    ? '**Lecture 17**{: .label .label-lecture } [Modeling in Context: Fairness in Housing Appraisal](lecture/lec17)'
     : '[Ch. 16](https://www.textbook.ds100.org/ch/16/gradient_descent.html)'
 - date: 2021-03-31
   events:
