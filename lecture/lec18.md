@@ -8,7 +8,7 @@ nav_exclude: true
 
 Presented by Anthony D. Joseph
 
-Content by Josh Hug, Joseph Gonzalez
+Content by Josh Hug, Joseph Gonzalez, Paul Shao
 
 - [slides](https://docs.google.com/presentation/d/1gi7Ar5O7T0qE_abZeZvX-VURC-i3sWwwK6FtsuIwkQc/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfo3N-a4LWIpW5Xi19vpjw2F)
