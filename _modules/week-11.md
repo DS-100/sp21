@@ -18,7 +18,7 @@ days:
     : ''
 - date: 2021-04-01
   events:
-    ? '**Lecture 18**{: .label .label-lecture } [Gradient Descent](lecture/lec18.md)'
+    ? '**Lecture 18**{: .label .label-lecture } [Gradient Descent](lecture/lec18)'
     : '[Ch. 16](https://www.textbook.ds100.org/ch/16/gradient_descent.html)'
 - date: 2021-04-02
   events:
