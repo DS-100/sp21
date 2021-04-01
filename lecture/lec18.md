@@ -12,7 +12,7 @@ Content by Josh Hug, Joseph Gonzalez
 
 - [slides](https://docs.google.com/presentation/d/1gi7Ar5O7T0qE_abZeZvX-VURC-i3sWwwK6FtsuIwkQc/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfo3N-a4LWIpW5Xi19vpjw2F)
-- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec18/)
+- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec18/&branch=main)
 - [code HTML](../../resources/assets/lectures/lec17/lec17.html)
 - (optional) [Loss Game](https://gradient-game.herokuapp.com/)
 
