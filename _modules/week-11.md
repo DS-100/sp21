@@ -22,7 +22,7 @@ days:
     : '[Ch. 16](https://www.textbook.ds100.org/ch/16/gradient_descent.html)'
 - date: 2021-04-02
   events:
-    ? '**Homework 8**{: .label .label-hw } Gradient Descent and HCE (due Apr 8)'
+    ? '**Homework 8**{: .label .label-hw } [HCE and Gradient Descent](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/hw/hw8&branch=main) (due Apr 8)'
     : ''
 
 ---
