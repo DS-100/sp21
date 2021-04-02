@@ -22,7 +22,7 @@ days:
     : '[Ch. 26](https://www.textbook.ds100.org/ch/26/dtrees_intro.html)'
 - date: 2021-04-09
   events:
-    ? '**Lab 11**{: .label .label-lab } Decision Trees and Random Forests (due Apr 15)'
+    ? '**Lab 10**{: .label .label-lab } Logistic Regression (due Apr 15)'
     : ''
     ? '**Homework 9**{: .label .label-hw } Spam/Ham I (due Apr 15)'
     : ''

@@ -22,7 +22,7 @@ days:
     : ''
 - date: 2021-04-30
   events:
-    ? '**Lab 14**{: .label .label-lab } Using the Bootstrap for Estimation (due May 6)'
+    ? '**Lab 13**{: .label .label-lab } Using the Bootstrap for Estimation (due May 6)'
     : ''
     ? '**Homework 12**{: .label .label-hw } Bonus Assignment (due May 6)'
     : ''

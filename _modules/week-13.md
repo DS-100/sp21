@@ -23,7 +23,7 @@ days:
     : '[Ch. 27](https://www.textbook.ds100.org/ch/27/clustering_intro.html)'
 - date: 2021-04-16
   events:
-    ? '**Lab 12**{: .label .label-lab } TBD (due Apr 22)'
+    ? '**Lab 11**{: .label .label-lab } Decision Trees and Random Forests (due Apr 22)'
     : ''
     ? '**Homework 10**{: .label .label-hw } Spam/Ham II (due Apr 22)'
     : ''

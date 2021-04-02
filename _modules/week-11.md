@@ -22,8 +22,6 @@ days:
     : '[Ch. 16](https://www.textbook.ds100.org/ch/16/gradient_descent.html)'
 - date: 2021-04-02
   events:
-    ? '**Lab 10**{: .label .label-lab } Logistic Regression (due Apr 8)'
-    : ''
     ? '**Homework 8**{: .label .label-hw } Gradient Descent and HCE (due Apr 8)'
     : ''
 
