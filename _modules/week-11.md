@@ -24,5 +24,9 @@ days:
   events:
     ? '**Homework 8**{: .label .label-hw } [HCE and Gradient Descent](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/hw/hw8&branch=main) (due Apr 8)'
     : ''
+- date: 2021-04-03
+  events:
+    ? '**Graduate Project**{: .label .label-proj } [Guidelines & Requirements](grad_proj/gradproject)'
+    : ''
 
 ---
