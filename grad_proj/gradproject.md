@@ -140,14 +140,14 @@ If you wish, you can replace your narrative notebook with a PDF compiled using L
 
 Specifically, you should address the following in the narrative:
 
-* Clearly stated research questions and why they are interesting and important. You must include **at least one research question involving multiple datasets**, but you may include additional research questions about each individual dataset. At least one of your research questions has to include a modeling component, e.g., can we build a model using climate data to predict growth in COVID-19 cases accurately? The modeling question does not need to be about multiple datasets.
+* Clearly stated research questions and why they are interesting and important. You must include **at least one research question involving at least one or more datasets from one of the topics we provided**, but you may include additional research questions about each individual dataset. At least one of your research questions has to include a modeling component, e.g., can we build a model using climate data to predict growth in COVID-19 cases accurately?
 * A brief survey of related work on the topic(s) of your analysis and how your project differs from or complements existing research.
 * If applicable, descriptions of additional datasets that you gathered to support your analysis.
 * Methodology: carefully describe the methods you use and why they are appropriate for answering your search questions. It must include 
-    * a brief overview of causal inference, which should be written in a way such that another student in Data 100 who has never been exposed to the concept can carry out the analyses involving multiple datasets in your project.
+    * a brief overview of causal inference, which should be written in a way such that another student in Data 100 who has never been exposed to the concept can carry out the analyses involving the datasets in your project.
     * a detailed description of how modeling is done in your project, including inference or prediction methods used, feature engineering and regularization if applicable, and cross-validation or test data as appropriate for model selection and evaluation.  
 * _Interesting findings_* about each dataset when analyzed individually. Include visualizations and descriptions of data cleaning and data transformation necessary to perform the analysis that led to your findings.
-* _Interesting findings_* involving multiple datasets. Include visualizations and descriptions of data cleaning and data transformation necessary to perform the analysis that led to your findings.
+* _Interesting findings_* involving your datasets. Include visualizations and descriptions of data cleaning and data transformation necessary to perform the analysis that led to your findings.
 * Analysis of your findings to answer your research question(s). Include visualizations and specific results. If your research questions contain a modeling component, you must compare the results using different inference or prediction methods (e.g., linear regression, logistic regression, or classification and regression trees). Can you explain why some methods performed better than others?
 * An evaluation of your approach and discuss any limitations of the methods you used.
 * Describe any surprising discoveries that you made and future work.
