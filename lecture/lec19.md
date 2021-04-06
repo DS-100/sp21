@@ -12,7 +12,7 @@ Content by Suraj Rampure, Josh Hug, Joseph Gonzalez, Ani Adhikari
 
 - [slides](https://docs.google.com/presentation/d/12wrGaQdhna2cs7chxcknV85YvInMajXIJN3Z1Z8NYm0/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpVrztbjoDxeQar0NxjsxTf)
-- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec18/)
+- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec19/&branch=main)
 - [code HTML](../../resources/assets/lectures/lec18/lec18.html)
 
 A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
