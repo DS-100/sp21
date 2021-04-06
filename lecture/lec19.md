@@ -4,7 +4,7 @@ title: Lecture 18 – Logistic Regression, Part 1
 nav_exclude: true
 ---
 
-# Lecture 18 – Logistic Regression, Part 1
+# Lecture 19 – Logistic Regression, Part 1
 
 Presented by Fernando Perez, Suraj Rampure
 
@@ -15,7 +15,7 @@ Content by Suraj Rampure, Josh Hug, Joseph Gonzalez, Ani Adhikari
 - [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec18/)
 - [code HTML](../../resources/assets/lectures/lec18/lec18.html)
 
-The Quick Check for this lecture is due **Monday, November 9th at 11:59PM.** A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 18" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check.
+A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
 
 <table>
 <colgroup>
