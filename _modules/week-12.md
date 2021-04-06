@@ -10,7 +10,7 @@ days:
   events:
     ? '**Fireside Chat 10**{: .label .label-live }'
     : ''
-    ? '**Lecture 19**{: .label .label-lecture } Logistic Regression I'
+    ? '**Lecture 19**{: .label .label-lecture } [Logistic Regression I](lecture/lec19)'
     : '[Ch. 23.4-23.7](https://www.textbook.ds100.org/ch/23/classification_log_reg.html)'
 - date: 2021-04-07
   events:
