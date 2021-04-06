@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 18 – Logistic Regression, Part 1
+title: Lecture 19 – Logistic Regression, Part 1
 nav_exclude: true
 ---
 
