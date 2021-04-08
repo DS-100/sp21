@@ -18,7 +18,7 @@ days:
     : ''
 - date: 2021-04-08
   events:
-    ? '**Lecture 20**{: .label .label-lecture } Logistic Regression II, Classification'
+    ? '**Lecture 20**{: .label .label-lecture } [Logistic Regression II, Classification](lecture/lec20)'
     : '[Ch. 26](https://www.textbook.ds100.org/ch/26/dtrees_intro.html)'
 - date: 2021-04-09
   events:
