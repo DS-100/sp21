@@ -99,7 +99,7 @@ This dataset contains reports from the Household Pulse Survey launched by NCHS i
 
 You must choose to work with **at least 3 of the reports** above in your analysis.
  
- #### Dataset C: Ongoing Researches <a name="1-c"></a>
+#### Dataset C: Ongoing Researches <a name="1-c"></a>
 
 This dataset contains (in full-text and metadata form) scholarly articles related to COVID-19. The data are optimized for machine readability and made available for use by the global research community. The dataset is intended to mobilize researchers to generate new insights from the articles in support of the fight against this infectious disease. You can access the link to obtain the data [here](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/grad_proj/Topic%201%20-%20Covid%2019&branch=main) within `Dataset_C.zip` on DataHub:
 
