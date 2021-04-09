@@ -4,7 +4,7 @@ weekNumber: 12
 days:
 - date: 2021-04-05
   events:
-    ? '**Discussion 4**{: .label .label-disc } [Gradient Descent and HCE](https://drive.google.com/file/d/17i0TFsNUd5tBMmBJ-Z3ojE0uNFPveYOP/view?usp=sharing)'
+    ? '**Discussion 4**{: .label .label-disc } [Gradient Descent and HCE](https://drive.google.com/file/d/17i0TFsNUd5tBMmBJ-Z3ojE0uNFPveYOP/view?usp=sharing) [(Solutions)](https://drive.google.com/file/d/1WlaH1f6Kqhygv3lDbeWpALfgEssBFWSH/view?usp=sharing)'
     : ''
 - date: 2021-04-06
   events:
