@@ -251,7 +251,7 @@ The project writeup will be graded out of a total of 30 points based on the foll
 | Modeling and inference techniques                                      | 7     |
 | Analysis of results                                                    | 7     |
 | Implementation of peer review feedback                                 | 3     |
-| Discussion of potential ethical impacts and concerns                   | 2     |
+| Discussion of potential societal impacts and/or ethical concerns                   | 2     |
 | Overall clarity and structure of the report                            | 3     |
 
 ### <a name="causal_inference"></a>Causal Inference
