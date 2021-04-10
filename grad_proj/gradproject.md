@@ -5,8 +5,25 @@ nav_exclude: true
 nav_order: 6
 description: Specifications for the final project for Data 200.
 ---
-
 # Graduate Project
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Timeline](#timeline)
+3. [Deliverables and Grade Breakdown](#grade-breakdown)
+4. [Datasets](#dataset)
+    1. [Accessing Datasets](#access-dataset)
+    2. [Topic 1: COVID-19](#covid-19)
+    3. [Topic 2: Climate and the Environment](#climate)
+    4. [Topic 3: Emerging Researches and Technologies](#tech)
+5. [Report Format and Submission](#report-format)
+6. [Rubrics](#rubrics)
+    1. [Peer Grading Rubric](#peer-rubric)
+    2. [Final Report: Analysis Notebook Grading Rubric](#analysis-rubric)
+    3. [Final Report: Project Writeup Grading Rubric](#writeup-rubric)
+
+## Introduction <a name="introduction"></a>
 
 The graduate project is offered only to students enrolled in Data C200 or CS C200A. Other students are welcome to explore the questions and datasets in the project for learning, but their work will not be graded or counted towards their final grades.
 
@@ -18,8 +35,31 @@ You will receive feedback from peer grading before the final deadline, and you a
 
 **Teamwork**: You can work alone or in a group with **at most two other students**. If you are interested in working with others, we will have a Piazza post for teammate search. Everyone in the same group will receive the same grade. The group size will be taken into consideration for grading.
 
+## Timeline <a name="timeline"></a>
 
-## Datasets
+| Date (by EOD at 11:59pm) 	| Event / Deliverable                           |
+|--------------------------	|---------------------------------------------	|
+| 4/11                     	| Research proposal and project groups due    	|
+| 4/25                     	| Project checkpoint                          	|
+| 4/30                     	| First draft of final report due             	|
+| 4/31                     	| Peer grading starts                         	|
+| 5/4                      	| Peer grading due                            	|
+| 5/9                      	| Revised final report due                    	|
+| 5/11                     	| Presentation video due                      	|
+| 5/13                     	| Presentation video released (at discretion) 	|
+
+## Deliverables and Grade Breakdown <a name="grade-breakdown"></a>
+
+| Deliverable                          	| Weight 	|
+|--------------------------------------	|--------	|
+| Research proposal and project groups 	| 10%    	|
+| Submission of first draft            	| 10%    	|
+| Peer grading                         	| 15%    	|
+| Final report: analysis notebook      	| 20%    	|
+| Final report: project writeup        	| 30%    	|
+| Final presentation video             	| 15%    	|
+
+## Datasets <a name="dataset"></a>
 
 This section contains the datasets we will provide to you to explore your research questions. Please note that:
 
@@ -28,16 +68,16 @@ This section contains the datasets we will provide to you to explore your resear
 
 Please be sure to consult the [references on causal inference](#causal_inference) for guidance on how to work with multiple datasets if you decide on doing that. 
 
-### Accessing Datasets
+### Accessing Datasets <a name="access-dataset"></a>
 
 All the datasets (or links to access and download them) provided by us can be found inside the [graduate project dataset link](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/grad_proj&branch=main) on DataHub. If you wish to work on the project locally, you can also download the zip files containing the datasets for each topic.
 
 The following subsections contain the descriptions and additional requirements for each dataset.
 
 
-### Topic 1: COVID-19
+### Topic 1: COVID-19 <a name="covid-19"></a>
 
-#### Dataset A: Testing and Mortality Statistics
+#### Dataset A: Testing and Mortality Statistics <a name="1-a"></a>
 
 This dataset contains US reports on COVID-19 testing and cases from the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) and CDC (Centers for Disease Control and Prevention). You can access all the data [here](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/grad_proj/Topic%201%20-%20Covid%2019&branch=main) within `Dataset_A.zip` on DataHub:
 
@@ -47,7 +87,7 @@ This dataset contains US reports on COVID-19 testing and cases from the [COVID-1
 
 You must choose to work with **at least 2 of the reports** above in your analysis.
 
-#### Dataset B: Impact on Health Care
+#### Dataset B: Impact on Health Care <a name="1-b"></a>
 
 This dataset contains reports from the Household Pulse Survey launched by NCHS in partnership with the U.S. Census Bureau; it focuses on how COVID-19 has affected survey correspondents' mental health and their access to health care. In addition, it provides statistics on usage of telemedicine by healthcare providers. You can access all the data [here](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/grad_proj/Topic%201%20-%20Covid%2019&branch=main) within `Dataset_B.zip` on DataHub:
 
@@ -58,16 +98,16 @@ This dataset contains reports from the Household Pulse Survey launched by NCHS i
 * `nchs_covid_telemedicine_usage.csv` contains survey estimates of responses to questions that ask if healthcare providers offered telemedicine (including video and telephone appointments) -- both during and before the pandemic -- and about the use of telemedicine during the pandemic. ([documentation](https://data.cdc.gov/NCHS/Use-of-Telemedicine-During-COVID-19/8xy9-ubqz))
 
 You must choose to work with **at least 3 of the reports** above in your analysis.
-
-#### Dataset C: Ongoing Researches
+ 
+#### Dataset C: Ongoing Researches <a name="1-c"></a>
 
 This dataset contains (in full-text and metadata form) scholarly articles related to COVID-19. The data are optimized for machine readability and made available for use by the global research community. The dataset is intended to mobilize researchers to generate new insights from the articles in support of the fight against this infectious disease. You can access the link to obtain the data [here](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/grad_proj/Topic%201%20-%20Covid%2019&branch=main) within `Dataset_C.zip` on DataHub:
 
 * `covid_open_research_dataset.txt` contains the link that will guide you to obtain the full-text and metadata dataset of COVID-related research articles. ([documentation](https://azure.microsoft.com/en-us/services/open-datasets/catalog/covid-19-open-research/))
 
-### Topic 2: Climate and the Environment
+### Topic 2: Climate and the Environment <a name="climate"></a>
 
-#### Dataset A: General Measurements and Statistics
+#### Dataset A: General Measurements and Statistics <a name="2-a"></a>
 
 This dataset contains some general statistics and measurements of various aspects of the climate and the environment. You can access all the data [here](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/grad_proj/Topic%202%20-%20Climate%20and%20the%20Environment&branch=main) within `Dataset_A.zip` on DataHub. It includes the following reports:
 
@@ -87,7 +127,7 @@ If you wish to explore the climate data for a different year, you can use the `G
 
 The data contains only the (latitude, longitude) coordinates for the weather stations. To map the coordinates to geographical locations, the [reverse-geocoder](https://github.com/thampiman/reverse-geocoder) package mentioned in the [References](#coordinates) section might be helpful.
 
-#### Dataset B: Biodiversity in the Ecosystem
+#### Dataset B: Biodiversity in the Ecosystem <a name="2-b"></a>
 
 This dataset contains studies focused specifically on the impact of environmental and climate changes on biodiversity and the local ecosystems. You can access all the data [here](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/grad_proj/Topic%202%20-%20Climate%20and%20the%20Environment&branch=main) within `Dataset_B.zip` on DataHub. It includes the following reports:
 
@@ -95,9 +135,9 @@ This dataset contains studies focused specifically on the impact of environmenta
 - `plant_pollinator_diversity_set1.csv` and `plant_pollinator_diversity_set2.csv` contain ecological data collected from a long-term observation study from 2011 to 2018 that focuses on plant-pollinator interaction and its impact on local biodiversity. ([documentation](https://search.dataone.org/view/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-and%2F5216%2F6))
 - `national_parks_biodiversity_parks.csv` and `national_parks_biodiversity_species.csv` contain data published by the National Park Service on animal and plant species identified in individual national parks.
 
-### Topic 3: Emerging Researches and Technologies 
+### Topic 3: Emerging Researches and Technologies <a name="tech"></a>
 
-#### Dataset A: Space Exploration
+#### Dataset A: Space Exploration <a name="3-a"></a>
 
 This dataset contains a set of reports from pioneering researches that explore the outer space. Much of the data from these studies have provided a rich foundation for a variety of large-scale research projects that explore widely discussed topics such as habitable exoplanets or search for extraterrestrial life. 
 
@@ -107,7 +147,7 @@ You can access all the data [here](https://data100.datahub.berkeley.edu/hub/user
 - `kelper_planetary_system_composite.csv` contains data collected by NASA from the Kelper Space Observatory as part of an ongoing study that tabulates all confirmed planetary systems outside the solar system. You are encouraged to use the composite data in conjunction with the exoplanet search results above. ([source](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PSCompPars))
 - `nasa_neows.csv` contains data collected from NASA's [NeoWs (Near Earth Object Web Service)](https://neowise.ipac.caltech.edu/) that collects information on near earth asteroids. 
 
-#### Dataset B: Recommender Systems
+#### Dataset B: Recommender Systems <a name="3-b"></a>
 
 A recommender system is an information filtering system that focuses on predicting the preference a user would give to an item by predicting its rank; it is used in a variety of areas, such as search engines, online shopping platforms, etc. This dataset contains a set of reports on various tools using a recommender system.
 
@@ -115,7 +155,7 @@ You can access the links to obtain all the data [here](https://data100.datahub.b
 - `fitness_recommendation.txt` contains a link to access the fitness data from sequential sensors for various workouts. ([documentation](https://sites.google.com/eng.ucsd.edu/fitrec-project/home))
 - `amazon_reviews.txt` contains a link to access the data on a subset of Amazon product reviews. The report includes metadata such as ratings and text on the reviews and general information about the product. ([documentation](https://nijianmo.github.io/amazon/index.html))
 
-### Report Format and Submission
+### Report Format and Submission <a name="report-format"></a>
 The project submission should include the following two components.
 
 [Component 1]. **Analysis Notebooks**. The Jupyter Notebook(s) containing all the analyses that you performed on the datasets to support your claims in the narrative notebook. Make sure that all references to datasets are done as `data/[path to data files]`. You can copy the datasets from `~/shared/grad_proj/multiple_datasets` into `data/` at the top-level directory for your project on DataHub to do this.
@@ -134,9 +174,9 @@ Your analysis notebook(s) should address all of the following components in the 
 - **Data Modeling and Inferences**
   - Please wait for more updates on the requirements for this section 🤔...
   
-[Component 2]. **Narrative Notebook**. This is a single Jupyter Notebook that summarizes your workflow and what you have learned. It should be structured as a research paper and include a title, list of authors, abstract, introduction, description of data, description of methods, summary of results, and discussion. Make sure to number figures and tables and include informative captions. 
+[Component 2]. **Project Writeup (previously narrative notebook)**. This is a single PDF that summarizes your workflow and what you have learned. It should be structured as a research paper and include a title, list of authors, abstract, introduction, description of data, description of methods, summary of results, and discussion. Make sure to number figures and tables and include informative captions. 
 
-If you wish, you can replace your narrative notebook with a PDF compiled using LaTeX, provided that the provenance of the figures is clearly labeled in the main narrative, and the figures can be reproduced by running the analysis notebooks
+If you wish, you can render the PDF using LaTeX, provided that the provenance of the figures is clearly labeled in the main narrative, and the figures can be reproduced by running the analysis notebooks
 
 Specifically, you should address the following in the narrative:
 
@@ -169,6 +209,50 @@ studentIDs/
 ```
 
 For groups with multiple members, please use student IDs joined by `_` as the name for the top-level directory. The analysis notebooks must be runnable within this directory structure. If the narrative notebook includes any figures that are created in the analysis notebooks, the figures should be saved to `figures/` by the analysis notebooks and imported from `figures/` by the narrative notebook.
+
+## Rubrics <a name="rubrics"></a>
+### Peer Grading Rubric <a name="peer-rubric"></a>
+
+Each group will peer grade the projects from another group. The review will be graded out of a total of 15 points. 
+
+Each review should include the following components:
+
+1. A summary of the report (**5 points**). The summary should address at least the following:
+  - What research question does the group propose? Why is it important?
+  - How does the dataset relate to the research question?
+  - What data modeling/inference techniques do the group primarily use to gain insights into their research question? Why are these techniques suitable for the task?
+  - What are the next steps a researcher can take if they want to investigate the question further based off the work in the project?
+2. An evaluation of the report based on the Data Science Lifecycle (**10 points, 2 points per component**). The review should include at least **one strong point and one suggestion for improvement** for each of the following components in the project:
+  - Data collection and sampling
+  - Data cleaning
+  - Exploratory data analysis (including data wrangling and visualization) 
+  - Data modeling (including feature engineering, selection of the model, and evaluation of the model's performance)
+  - Inference (do the results from the model sufficiently support the conclusion within the report?)
+
+### Final Report: Analysis Notebook Grading Rubric <a name="analysis-rubric"></a>
+
+The analysis notebook will be graded out of a total of 20 points based on the following set of criteria:
+
+| Criterion                                                                         | Point |
+|-----------------------------------------------------------------------------------|-------|
+| Code readability and documentation                                                | 5     |
+| Proper and sufficient utilization of Python libraries                             | 5     |
+| Overall code quality                                                              | 3     |
+| Replicability of the results                                                      | 7     |
+
+### Final Report: Project Writeup Grading Rubric <a name="writeup-rubric"></a>
+
+The project writeup will be graded out of a total of 30 points based on the following set of criteria:
+
+| Criterion                                                              | Point |
+|------------------------------------------------------------------------|-------|
+| Introduction, motivation, and presentation of the research question(s) | 3     |
+| Exploratory data analysis                                              | 5     |
+| Modeling and inference techniques                                      | 7     |
+| Analysis of results                                                    | 7     |
+| Implementation of peer review feedback                                 | 3     |
+| Discussion of potential societal impacts and/or ethical concerns                   | 2     |
+| Overall clarity and structure of the report                            | 3     |
 
 ### <a name="causal_inference"></a>Causal Inference
 
