@@ -22,7 +22,7 @@ days:
     : '[Ch. 26](https://www.textbook.ds100.org/ch/26/dtrees_intro.html)'
 - date: 2021-04-09
   events:
-    ? '**Lab 10**{: .label .label-lab } Logistic Regression (due Apr 15)'
+    ? '**Lab 10**{: .label .label-lab } [Logistic Regression](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&urlpath=tree%2Fsp21%2Flab%2Flab10&branch=main) (due Apr 15)'
     : ''
     ? '**Homework 9**{: .label .label-hw } [Spam/Ham I](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/hw/hw9&branch=main) (due Apr 15)'
     : ''
