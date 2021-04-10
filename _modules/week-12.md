@@ -24,7 +24,7 @@ days:
   events:
     ? '**Lab 10**{: .label .label-lab } Logistic Regression (due Apr 15)'
     : ''
-    ? '**Homework 9**{: .label .label-hw } Spam/Ham I (due Apr 15)'
+    ? '**Homework 9**{: .label .label-hw } [Spam/Ham I](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/hw/hw9&branch=main) (due Apr 15)'
     : ''
 
 ---
