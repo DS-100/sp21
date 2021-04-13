@@ -10,7 +10,7 @@ days:
   events:
     ? '**Fireside Chat 11**{: .label .label-live }'
     : ''
-    ? '**Lecture 21**{: .label .label-lecture } Decision Trees'
+    ? '**Lecture 21**{: .label .label-lecture } [Decision Trees](lecture/lec21)'
     # : '[Ch. 18.1, 18.3](https://www.textbook.ds100.org/ch/18/hyp_intro.html)'
     : '[Appendix 3](http://www.textbook.ds100.org/ch/a03/hyp_intro.html)'
 - date: 2021-04-14
