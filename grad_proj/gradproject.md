@@ -74,12 +74,12 @@ All the datasets (or links to access and download them) provided by us can be fo
 
 The following subsections contain the descriptions and additional requirements for each dataset.
 
-
-### Topic 1: COVID-19 <a name="covid-19"></a>
+me="covid-19"></a>
 
 #### Dataset A: Testing and Mortality Statistics <a name="1-a"></a>
 
-This dataset contains US reports on COVID-19 testing and cases from the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) and CDC (Centers for Disease Control and Prevention). You can access all the data [here](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/grad_proj/Topic%201%20-%20Covid%2019&branch=main) within `Dataset_A.zip` on DataHub:
+This dataset
+### Topic 1: COVID-19 <a na contains US reports on COVID-19 testing and cases from the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) and CDC (Centers for Disease Control and Prevention). You can access all the data [here](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/grad_proj/Topic%201%20-%20Covid%2019&branch=main) within `Dataset_A.zip` on DataHub:
 
 * `csse_covid_19_daily_reports_us.csv` contains US daily reports ([documentation](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data#usa-daily-state-reports-csse_covid_19_daily_reports_us))
 * `cdc_death_counts_by_sex_age_state.csv` contains US weekly reports on deaths involving COVID-19, pneumonia, and influenza reported to NCHS by sex, age, group, and state. ([documentation](https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku))
@@ -172,7 +172,18 @@ Your analysis notebook(s) should address all of the following components in the 
   - Is there any correlation between the variables you are interested in exploring?
   - How would you cleanly and accurately visualize the relationship among variables?
 - **Data Modeling and Inferences**
-  - Please wait for more updates on the requirements for this section 🤔...
+  - Please note that the following datasets have a data modeling requirement, i.e. you need to utilize at least 1 machine learning model we teach in this class in your project: Topic 1 - Dataset A, Topic 1 - Dataset C, Topic 2 - Dataset A, Topic 3 - Dataset A, Topic 3 - Dataset B. For datasets not mentioned above, you are welcome to continue building machine learning model(s). Otherwise, we will be placing more 
+  emphasis on the inference part instead.
+  - Here are a few components your notebook must address:
+    - What type of machine learning problem are you investigating?
+    - What model do you plan on using and why?
+    - Does your model require hyperparameter tuning? If so, how do you approach it?
+    - How do you engineer the features for your model? What are the rationales behind selecting these features?
+    - How do you perform cross validation on your model?
+    - What loss metrics are you using to evaluate your model?
+    - From a bias-variance tradeoff standpoint, how do you assess the performance of your model? How do you check if it is overfitting?
+    - How would you improve your model based on the outcome?
+  - If you are choosing to pursue your research question from an inference angle, your notebook must demonstrate sufficient analysis and visualization to support your conclusion. We will not restrict you to the type of analysis as there are many different statistical techniques that may apply to your case. However, we also ask that you provide detailed justification for the techniques you choose and how it allows you make those inferences.
   
 [Component 2]. **Project Writeup (previously narrative notebook)**. This is a single PDF that summarizes your workflow and what you have learned. It should be structured as a research paper and include a title, list of authors, abstract, introduction, description of data, description of methods, summary of results, and discussion. Make sure to number figures and tables and include informative captions. 
 
