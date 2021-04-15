@@ -17,7 +17,7 @@ Content by Suraj Rampure, Fernando Perez, John DeNero, Sam Lau, Ani Adhikari, De
 
 The [Data 8 textbook chapter on estimation](https://www.inferentialthinking.com/chapters/13/Estimation.html) may be very helpful.
 
-The Quick Check for this lecture is due **Monday, November 23rd at 11:59PM.** A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 22" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check.
+A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
 
 <table>
 <colgroup>
