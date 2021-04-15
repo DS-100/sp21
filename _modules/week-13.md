@@ -19,7 +19,7 @@ days:
     : ''
 - date: 2021-04-15
   events:
-    ? '**Lecture 22**{: .label .label-lecture } Inference for Modeling'
+    ? '**Lecture 22**{: .label .label-lecture } [Inference for Modeling](lecture/lec22)'
     : '[Ch. 27](https://www.textbook.ds100.org/ch/27/clustering_intro.html)'
 - date: 2021-04-16
   events:
