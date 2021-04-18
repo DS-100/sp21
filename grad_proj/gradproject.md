@@ -45,8 +45,8 @@ You will receive feedback from peer grading before the final deadline, and you a
 | 4/31                     	| Peer grading starts                         	|
 | 5/4                      	| Peer grading due                            	|
 | 5/9                      	| Revised final report due                    	|
-| 5/11                     	| Presentation video due                      	|
-| 5/13                     	| Presentation video released (at discretion) 	|
+| 5/12                     	| Presentation video due                      	|
+| 5/14                     	| Presentation video released (at discretion) 	|
 
 ## Deliverables and Grade Breakdown <a name="grade-breakdown"></a>
 
@@ -74,12 +74,14 @@ All the datasets (or links to access and download them) provided by us can be fo
 
 The following subsections contain the descriptions and additional requirements for each dataset.
 
-me="covid-19"></a>
-
 #### Dataset A: Testing and Mortality Statistics <a name="1-a"></a>
 
 This dataset
-### Topic 1: COVID-19 <a na contains US reports on COVID-19 testing and cases from the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) and CDC (Centers for Disease Control and Prevention). You can access all the data [here](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/grad_proj/Topic%201%20-%20Covid%2019&branch=main) within `Dataset_A.zip` on DataHub:
+### Topic 1: COVID-19 <a name="covid-19"></a>
+
+#### Dataset A: Testing and Mortality Statistics <a name="1-a"></a>
+
+This dataset contains US reports on COVID-19 testing and cases from the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) and CDC (Centers for Disease Control and Prevention). You can access all the data [here](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/grad_proj/Topic%201%20-%20Covid%2019&branch=main) within `Dataset_A.zip` on DataHub:
 
 * `csse_covid_19_daily_reports_us.csv` contains US daily reports ([documentation](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data#usa-daily-state-reports-csse_covid_19_daily_reports_us))
 * `cdc_death_counts_by_sex_age_state.csv` contains US weekly reports on deaths involving COVID-19, pneumonia, and influenza reported to NCHS by sex, age, group, and state. ([documentation](https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku))
