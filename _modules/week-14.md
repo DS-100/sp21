@@ -4,7 +4,7 @@ weekNumber: 14
 days:
 - date: 2021-04-19
   events:
-    ? '**Discussion 5**{: .label .label-disc }'
+    ? '**Discussion 5**{: .label .label-disc } [Classification](https://drive.google.com/file/d/1LkuqhGQOUYGxBlLT3yHzIA9M9oy2ptzM/view?usp=sharing)'
     : ''
 - date: 2021-04-20
   events:
