@@ -11,11 +11,11 @@ Presented by Anthony D. Joseph
 Content by Josh Hug
 
 - [slides](https://docs.google.com/presentation/d/19TdgyT7vnnz6mR0-yftJH6iVpplQeTnohobvAr0dOeY/edit?usp=sharing)
-- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqgm0VJbNx-Gqp4bpQ8tzwo)
-- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec23/)
+- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqb5AH0J-5IXCt6BhEx0bE4)
+- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec23/)
 - [code HTML](../../resources/assets/lectures/lec23/lec23.html)
 
-The Quick Check for this lecture is due **Monday, November 30th at 11:59PM.** A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 23" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check.
+A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
 
 <table>
 <colgroup>
@@ -31,6 +31,11 @@ The Quick Check for this lecture is due **Monday, November 30th at 11:59PM.** A 
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>23.0</strong> <br>Announcements.</td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/9Ta6KBGNoIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td></td>
+</tr>
 <tr>
 <td><strong>23.1</strong> <br>Introduction to clustering. Examples of clustering in practice.</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/TBcTRy-kOpY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
