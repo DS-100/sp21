@@ -36,15 +36,6 @@ A reminder – the right column of the table below contains _Quick Checks_. Thes
 <tbody>
 <tr>
 <td><strong>23.0</strong> <br>Announcements.</td>
-<<<<<<< HEAD
-<td><iframe width="300" height="300" height src="https://youtube.com/embed/9Ta6KBGNoIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>23.1</strong> <br>Introduction to clustering. Examples of clustering in practice.</td>
-<td><iframe width="300" height="300" height src="https://youtube.com/embed/TBcTRy-kOpY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSd1MFL6YQ6agTUk_4nhZe9VpjRpfObhtukrf9S3YBw2H52Ghw/viewform" target="\_blank">23.1</a></td>
-=======
 <td><iframe width="300" height="300" height src="https://www.youtube.com/embed/9Ta6KBGNoIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td></td>
 </tr>
@@ -62,7 +53,6 @@ A reminder – the right column of the table below contains _Quick Checks_. Thes
 <td><strong>23.3</strong> <br>Matrix decomposition, redundancy, and rank. Introduction to the singular value decomposition (SVD).</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/rFuyMgD6Z5Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfOrnulBMvI042vrwUh5n9mzHrMKfnd9imWVBWE8HOcHCkzNw/viewform" target="\_blank">23.3</a></td>
->>>>>>> e522b007e9893771ebfa2bbfb388b9d99040a1c3
 </tr>
 <tr>
 <td><strong>23.4</strong> <br>The theory behind the singular value decomposition. Orthogonality and orthonormality.</td>
