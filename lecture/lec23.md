@@ -12,7 +12,7 @@ Content by Josh Hug
 
 - [slides](https://docs.google.com/presentation/d/19TdgyT7vnnz6mR0-yftJH6iVpplQeTnohobvAr0dOeY/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqb5AH0J-5IXCt6BhEx0bE4)
-- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec23/)
+- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec23/&branch=main)
 - [code HTML](../../resources/assets/lectures/lec23/lec23.html)
 
 A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
