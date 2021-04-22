@@ -15,7 +15,7 @@ Content by Josh Hug
 - [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&subPath=lec/lec24/&branch=main)
 - [code HTML](../../resources/assets/lectures/lec23/lec23.html)
 
-The Quick Check for this lecture is due **Monday, November 30th at 11:59PM.** A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 24" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check.
+A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
 
 <table>
 <colgroup>

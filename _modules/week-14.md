@@ -18,7 +18,7 @@ days:
     : ''
 - date: 2021-04-22
   events:
-    ? '**Lecture 24**{: .label .label-lecture } Clustering'
+    ? '**Lecture 24**{: .label .label-lecture } [Clustering](lecture/lec24)'
     : ''
 - date: 2021-04-23
   events:
