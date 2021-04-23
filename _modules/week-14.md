@@ -22,7 +22,7 @@ days:
     : ''
 - date: 2021-04-23
   events:
-    ? '**Lab 12**{: .label .label-lab } Principal Component Analysis (due Apr 29)'
+    ? '**Lab 12**{: .label .label-lab } [Principal Component Analysis](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&urlpath=tree%2Fsp21%2Flab%2Flab12&branch=main) (due Apr 29)'
     : ''
     ? '**Homework 11**{: .label .label-hw } Principal Component Analysis (due Apr 29)'
     : ''
