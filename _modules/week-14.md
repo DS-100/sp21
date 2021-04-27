@@ -8,7 +8,7 @@ days:
     : ''
 - date: 2021-04-20
   events:
-    ? '**Fireside Chat 12**{: .label .label-live }'
+    ? '**Fireside Chat 12 (Deep Learning)**{: .label .label-live } [Recording](https://kaltura.berkeley.edu/media/Data+100+-+Lecture/1_x7fanry0) [Interactive Notebook](resources/assets/fireside_chats/deeplearning/DeepLearning.html) [Code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&urlpath=tree%2Fsp21%2Ffireside%2Fdeeplearning&branch=main) '
     : ''
     ? '**Lecture 23**{: .label .label-lecture } [Principal Component Analysis](lecture/lec23)'
     : '[Ch. 25](https://www.textbook.ds100.org/ch/25/pca_intro.html)'
