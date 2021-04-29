@@ -18,7 +18,7 @@ days:
     : ''
 - date: 2021-04-29
   events:
-    ? '**Lecture 26**{: .label .label-lecture } Conclusion'
+    ? '**Lecture 26**{: .label .label-lecture } [Conclusion Live Webinar](https://berkeley.zoom.us/j/99980560875)'
     : ''
 - date: 2021-04-30
   events:
