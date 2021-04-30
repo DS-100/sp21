@@ -24,7 +24,7 @@ days:
   events:
     ? '**Lab 13**{: .label .label-lab } [Using the Bootstrap for Estimation](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp21&urlpath=tree%2Fsp21%2Flab%2Flab13&branch=main) (due May 6)'
     : ''
-    ? '**Homework 12**{: .label .label-hw } Bonus Assignment (due May 6)'
+    ? '**Homework 12**{: .label .label-hw } [Bonus Assignment](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp21&urlpath=tree/sp21/hw/hw12&branch=main) (due May 6)'
     : ''
 
 ---
