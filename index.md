@@ -23,7 +23,7 @@ UC Berkeley, Spring 2021
 
 <ul>
 <!-- <li><b>THIS PAGE IS UNDER CONSTRUCTION. Information here is subject to change </b></li> -->
-<li>Please read our <a href="http://www.ds100.org/sp21faq">course FAQ</a> before contacting staff with questions that might be answered there.</li>
+<li>Please read our <a href="http://www.ds100.org/faqs/sp21">course FAQ</a> before contacting staff with questions that might be answered there.</li>
 <li>The <a href="{{ site.baseurl }}/syllabus">Syllabus</a> contains a detailed explanation of how each course component will work this spring, given that the course is being taught entirely online.</li>
 <li>The scheduling of all weekly events is in the <a href="{{ site.baseurl }}/calendar">Calendar</a>.</li>
 <li>The Zoom links for all live events are in <a href="https://piazza.com/class/kk0b2ef3e7x5s3?cid=6">@6 on Piazza</a>.</li>
